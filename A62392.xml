@@ -1,0 +1,944 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faithful souldier's reward, or, A glimpse of the saints happiness discovered in two sermons, occasioned by the death of that truly vertuous and religious gentle woman, Mrs. Katherine Disney : the former preached at Kirkstead, the place of her last abode here upon the earth, on the 18th day of May, 1690, being the Lord's Day, and the latter at Swinderly, near Lincoln, where she was interr'd the Tuesday following / by William Scoffin.</title>
+            <author>Scoffin, William, 1655?-1732.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62392</idno>
+            <idno type="STC">Wing S933</idno>
+            <idno type="STC">ESTC R11432</idno>
+            <idno type="EEBO-CITATION">11910511</idno>
+            <idno type="OCLC">ocm 11910511</idno>
+            <idno type="VID">50794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faithful souldier's reward, or, A glimpse of the saints happiness discovered in two sermons, occasioned by the death of that truly vertuous and religious gentle woman, Mrs. Katherine Disney : the former preached at Kirkstead, the place of her last abode here upon the earth, on the 18th day of May, 1690, being the Lord's Day, and the latter at Swinderly, near Lincoln, where she was interr'd the Tuesday following / by William Scoffin.</title>
+                  <author>Scoffin, William, 1655?-1732.</author>
+               </titleStmt>
+               <extent>123, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Disney, Katherine, d. 1690.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50794:1"/>
+            <pb facs="tcp:50794:1" rendition="simple:additions"/>
+            <p>THE <hi>Faithful Souldier's Reward:</hi> Or, a Glimpſe of the SAINTS HAPPINESS; Diſcovered in two SERMONS, occaſioned by the Death of that truly Vertuous and Religious Gentlewoman, Mrs. <hi>Katherine Diſney.</hi> The former Preached at <hi>Kirkſtead,</hi> the Place of her laſt abode here up<g ref="char:EOLhyphen"/>on Earth, on the <hi>18th</hi> Day of <hi>May,</hi> 1690, being the Lord's Day. And the latter at <hi>Swinderby,</hi> near <hi>Lincoln,</hi> where ſhe was Interr'd the Tueſday following.</p>
+            <p>By <hi>William Scoffin.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rev. 21.7.</hi>
+               </bibl>
+               <p>He that overcometh ſhall inherit all things, and I will be his God, and he ſhall be my Son.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Rev. 2.10.</hi>
+               </bibl>
+               <p>— Be thou faithful unto Death, and I will give thee a Crown of Life.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Robinſon,</hi> at the Golden Lion in S. <hi>Paul</hi>'s Church-Yard, MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50794:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:50794:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>2 TIM. 4.7, 8.</hi>
+               </bibl>
+               <q>
+                  <p>I have fought a good Fight, I have finiſhed my Courſe, I have kept the Faith. Hence<g ref="char:EOLhyphen"/>forth there is laid up for me a Crown of Righteouſneſs, which the Lord the Righteous Judge ſhall give me at that Day: and not to me only, but unto all them alſo that love his Appearing.</p>
+               </q>
+            </epigraph>
+            <p>THE deceaſed Gentlewo<g ref="char:EOLhyphen"/>man, and our honoured Friend, whoſe Death hath occaſioned our preſent Meeting, did ſome Years ago make choice of this Scripture, to be prea<g ref="char:EOLhyphen"/>ched upon at her Funeral; and therefore it was recommended to me by her moſt affectionate (and
+<pb n="4" facs="tcp:50794:3"/>now ſorrowful) ſurviving Husband. And had I been left unto my own choice, I could not have pitched up<g ref="char:EOLhyphen"/>on a more ſuitable Subject; conſide<g ref="char:EOLhyphen"/>ring the Temptations and Conflicts ſhe had, more than many other Chriſtians do ever meet with.</p>
+            <p>The Life of every ſincere Chriſti<g ref="char:EOLhyphen"/>an is a continual Warfare, yet ſome are exercis'd with ſharper Com<g ref="char:EOLhyphen"/>bates than many others ever are; amongſt whom may be reckoned our deceaſed Friend; being one that was aſſaulted with many Tempta<g ref="char:EOLhyphen"/>tions, yet through the Captain of her Salvation, ſhe did conquer and overcome. So that well might ſhe apply this Scripture to her ſelf, and (in Humility) ſay with the Apoſtle St. <hi>Paul;</hi>
+            </p>
+            <p>
+               <hi>I have fought a good Fight, I have finiſhed my Courſe, I have kept the Faith: Henceforth there is laid up for me a Crown of Righteouſneſs,</hi> &amp;c.</p>
+            <p>In which Scripture, the holy A<g ref="char:EOLhyphen"/>poſtle aſſerteth theſe two Particu<g ref="char:EOLhyphen"/>lars.</p>
+            <pb n="5" facs="tcp:50794:3"/>
+            <list>
+               <item>1. <hi>His Faithfulneſs in his Duty.</hi>
+               </item>
+               <item>2. <hi>The Reward of his Faithfulneſs.</hi>
+               </item>
+            </list>
+            <p>The Firſt for <hi>Timothy</hi>'s Imitation; the Second for his Encouragement.</p>
+            <p>I ſhall ſpeak chiefly to the Latter of theſe; but will firſt conſider the Context, and the Meaning of the Words; and then come to that Point of Doctrine, which I purpoſe to build my preſent Diſcourſe upon.</p>
+            <p>In the three firſt Chapters of this Epiſtle, the Apoſtle directs <hi>Timothy</hi> to ſeveral Duties, and excites him to the faithful Diſcharge of the ſame; giving him alſo to underſtand what perillous Times there ſhould come; and how that Troubles and Perſecu<g ref="char:EOLhyphen"/>tions were to be expected; and hereupon he further exhorteth him to Conſtancy in his Duty, <hi>chap.</hi> 3.1, — 14. Minding him alſo of his early Knowledg in the holy Scrip<g ref="char:EOLhyphen"/>tures, and ſhewing the Excellency and Profitableneſs of them, <hi>ver.</hi> 15, — 17.</p>
+            <pb n="6" facs="tcp:50794:4"/>
+            <p>And leſt <hi>Timothy</hi> ſhould be diſcou<g ref="char:EOLhyphen"/>raged, and grow remiſs in his Duty, from the Oppoſition and Perſecuti<g ref="char:EOLhyphen"/>ons he ſhould meet with from Men; the Apoſtle moſt earneſtly chargeth him, as in the Preſence of the All<g ref="char:EOLhyphen"/>ſeeing God, and as he will anſwer it to Chriſt at the great Day of Judg<g ref="char:EOLhyphen"/>ment, that he be faithful, ſerious and diligent, in the great Work and Du<g ref="char:EOLhyphen"/>ties of the Miniſtry, <hi>chap.</hi> 4.1, 2.</p>
+            <p>And for the further preſſing this Charge upon him, he lays before him the neceſſity of it, with reſpect to the Church's Welfare; <hi>For the time will come</hi> (ſaith he) <hi>when they will not endure ſound Doctrine, but after their own Luſt ſhall they heap to them<g ref="char:EOLhyphen"/>ſelves Teachers, having itching Ears: And they ſhall turn away their Ears from the Truth, and ſhall be turned un<g ref="char:EOLhyphen"/>to Fables,</hi> ver. 3, 4. And ſeeing it ſhall be ſo, therefore <hi>preach the Word, be inſtant in Seaſon, and out of Seaſon; i. e.</hi> Lay hold of all Opportunities for the bringing Perſons to the Truth, and eſtabliſhing them in it. <hi>Reprove, rebuke, and exhort with all long-Suffering and Doctrine; q. d.</hi> Suit thy
+<pb n="7" facs="tcp:50794:4"/>ſelf and Diſcourſe to every one's Caſe and Condition; <hi>reprove</hi> ſuch as are faulty, <hi>rebuke</hi> groſs Sinners, and <hi>exhort</hi> all Men, with unwearied Long-ſuffering and ſound Doctrine; bearing with their Peeviſhneſs, Stub<g ref="char:EOLhyphen"/>bornneſs, <hi>&amp;c.</hi>
+            </p>
+            <p>And in <hi>ver.</hi> 5. he renews his Charge, or Exhortation, to <hi>Timothy;</hi> ſaying, <hi>Watch thou in all things,</hi> &amp;c. <hi>q. d.</hi> Seeing there will be ſuch a ſad Defection, as I have ſhewed thee there ſhall certainly be; therefore be thou the more vigilant and watchful, both over thy Self and Flock; and endure Affliction and Hardneſs, as a good Souldier of Chriſt. <hi>Do the Work of an Evangeliſt,</hi>
+               <note place="margin">Chap. 2.3.</note> in gathering and confirming Chur<g ref="char:EOLhyphen"/>ches: <hi>make full proof of thy Miniſtry; i. e.</hi> perform it thorowly in all the parts of it, ſo as fully to approve thy ſelf to be a faithful Miniſter of Chriſt. And then he backs his Ex<g ref="char:EOLhyphen"/>hortation with a ſecond Reaſon, and that is, the Nearneſs of his own Diſ<g ref="char:EOLhyphen"/>ſolution. Ver. 6. <hi>For I am now ready to be offer'd, and the time of my Depar<g ref="char:EOLhyphen"/>ture is at hand; q. d.</hi> Within a while
+<pb n="8" facs="tcp:50794:5"/>I ſhall ſuffer Martyrdom, and ſeal the Truths which I have preach'd, with my own Blood;<note place="margin">Pſal. 116.15.</note> and ſhall there<g ref="char:EOLhyphen"/>by become an acceptable Sacrifice to God. Whether <hi>Paul</hi> came to know the Nearneſs of his Death, by the Carriage of <hi>Nero</hi> the Roman Em<g ref="char:EOLhyphen"/>peror, under whom he ſuffered, or whether he had it by Revelation from God, is uncertain to us; but certain it is, that he did know it: And thereupon, lays it before <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> as an Argument to enforce his Exhortation upon him: <hi>q. d.</hi>
+               <q>For<g ref="char:EOLhyphen"/>aſmuch, as within a while, the Church will be deprived of my Help, therefore it will need thy greater Care and Diligence: And as to thy ſelf, while I am with thee, thou haſt the help of my Inſtructi<g ref="char:EOLhyphen"/>ons and Exhortations, and the Be<g ref="char:EOLhyphen"/>nefit of my Example: but ſeeing I ſhall ſhortly be taken from thee, therefore thou oughteſt to give the more earneſt Heed to what I now write unto thee.</q> So much as to the Context.</p>
+            <p>And now I come to my Text; wherein the Apoſtle doth further
+<pb n="9" facs="tcp:50794:5"/>excite, and encourage <hi>Timothy</hi> to his Duty.</p>
+            <p n="1">1. By declaring unto him what his own Practice had been: <hi>I have fought a good Fight,</hi> &amp;c. Shewing hereby, that there was no Duty, which he had been exhorting <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> unto, but what he had conſtantly practis'd himſelf; and that with the greateſt Diligence and Faithfulneſs.</p>
+            <p n="2">2. By his ſhewing the Reward of his great Faithfulneſs and Dili<g ref="char:EOLhyphen"/>gence: <hi>Henceforth there is laid up for me a Crown of Righteouſneſs,</hi> &amp;c. <hi>q. d.</hi> Conſider well what my Practice hath been; and that I have not fought in vain, run in vain, nor laboured in vain; but ſhall have an eternal and inconceivable Reward conferr'd upon me: And let the Conſideration of this, encourage thee to the greater Faithfulneſs and Diligence in Duty.</p>
+            <p>The Apoſtle ſeems to allude unto the Grecian Games, when he ſpeaks of his fighting, running, and his be<g ref="char:EOLhyphen"/>ing crowned.</p>
+            <p>
+               <hi>I have fought a good Fight; q. d.</hi> My Life hath been a military Life,
+<pb n="10" facs="tcp:50794:6"/>even a continual Warfare; yet have I not fought the evil Fights of am<g ref="char:EOLhyphen"/>bitious or quarrelſom Men: but the Fight which I have fought, is the good Fight of Faith: I have ſtoutly oppoſed the Enemies of my Salva<g ref="char:EOLhyphen"/>tion, and through Chriſt (my Cap<g ref="char:EOLhyphen"/>tain and Leader) have conquered and overcome.</p>
+            <p>The Life of a Chriſtian is often is Scripture compared unto a War<g ref="char:EOLhyphen"/>fare, becauſe of thoſe ſpiritual Ene<g ref="char:EOLhyphen"/>mies which are continually Warring againſt us. There are three great Enemies, which every Chriſtian has to grapple with. As,</p>
+            <p n="1">1. The Devil, which is a very <hi>ſubtil, watchful</hi> and <hi>powerful</hi> E<g ref="char:EOLhyphen"/>nemy, 2 <hi>Cor.</hi> 11.3, 14. He hath many <hi>Devices, Wiles</hi> and <hi>Stratagems,</hi> 2 <hi>Cor.</hi> 2.11. <hi>Epheſ.</hi> 6.11. He's a <hi>ma<g ref="char:EOLhyphen"/>licious</hi> and <hi>enraged</hi> Enemy, 1 <hi>Pet.</hi> 5.8. Who roveth about with unwearied Diligence, <hi>ſeeking whom he may de<g ref="char:EOLhyphen"/>vour.</hi> He hath his <hi>fiery Darts</hi> to mo<g ref="char:EOLhyphen"/>leſt thoſe, whom he cannot entice by his enſnaring Wiles; <hi>Epheſ.</hi> 6.16. Yea, we have not only this great Ad<g ref="char:EOLhyphen"/>verſary, the Prince of Devils, to
+<pb n="11" facs="tcp:50794:6"/>grapple with, but whole Legions of Devils, even all the Powers of Dark<g ref="char:EOLhyphen"/>neſs, <hi>Epheſ.</hi> 6.12.</p>
+            <p n="2">2. Another Enemy of our Souls, is this evil World. There are two ways by which the World overcomes Multitudes.</p>
+            <list>
+               <item>(1.) By its Smiles and Allurements, 1 <hi>Joh.</hi> 2.16.</item>
+               <item>(2.) By its Frowns and Threats, <hi>Joh.</hi> 15.19, 20.</item>
+            </list>
+            <p>Thouſands are drawn from God, and eternally ruined, by the Smiles and Allurements of this evil World. Some are taken with Pleaſures, ſome with Riches, and ſome with Ho<g ref="char:EOLhyphen"/>nours: Theſe are Satan's Baits, whereby he catcheth Multitudes, and keeps them in his Power, <hi>Luke</hi> 14.16, — 20. <hi>Mar.</hi> 4.18, 19. 1 <hi>Tim.</hi> 6.9, — 12. <hi>Mat.</hi> 19.16, — 22.</p>
+            <p>Again; Many who have in ſome meaſure eſcaped the World's Al<g ref="char:EOLhyphen"/>lurements, have been conquered and overcome by its Frowns and Threats, <hi>Mat.</hi> 13.20, 21. <hi>Joh.</hi> 12.42. Yea, ſuch an Enemy is this evil World, that none can overcome it, but ſuch as are ſpiritual; they who are Be<g ref="char:EOLhyphen"/>lievers
+<pb n="12" facs="tcp:50794:7"/>indeed, and are born from above, 1 <hi>Joh.</hi> 5.4, 5.</p>
+            <p n="3">3. Another Enemy that Chriſti<g ref="char:EOLhyphen"/>ans have to grapple with, is Carnal<g ref="char:EOLhyphen"/>ſelf,<note place="margin">Gal. 5.17.</note> or our unmortified Corrupti<g ref="char:EOLhyphen"/>ons: <hi>I find a Law in my Members, warring againſt the Law of my Mind, and bringing me into Captivity to the Law of Sin,</hi> (ſaith the Apoſtle, <hi>Rom.</hi> 7.21, 23.) Now the Fleſh, or Car<g ref="char:EOLhyphen"/>nal-ſelf, is a very dangerous and deceitful Enemy; Jer. 17.9. <hi>The Heart is deceitful above all things, and deſperately wicked, who can know it?</hi> It's an old ſaying, (and in this re<g ref="char:EOLhyphen"/>ſpect a true one) that a Man has need of no worſe an Enemy than he brings from home. For ſure I am, there is no Man hath a more dange<g ref="char:EOLhyphen"/>rous Enemy than Carnal-ſelf. Our Enemies without could never hurt us, if it were not for this Enemy within. For, look as when an Houſe is beſet, then one Enemy within is much more dangerous than many without: So this home-bred and in<g ref="char:EOLhyphen"/>dwelling Enemy, Carnal-ſelf, lets in the Devil and the World, to the ſpoiling and undoing of the poor
+<pb n="13" facs="tcp:50794:7"/>Soul. No wonder then, that the firſt Leſſon which Chriſt teacheth his Diſciples, is a Leſſon of Self-de<g ref="char:EOLhyphen"/>nial, (<hi>Mat.</hi> 16.24.) <hi>If any Man will come after me, let him deny himſelf,</hi> &amp;c. Keep down Self, and we conquer all; but if Carnal-ſelf get the upper<g ref="char:EOLhyphen"/>hand, the Devil and the World will eaſily overcome us. It is ſafe Ad<g ref="char:EOLhyphen"/>vice therefore, which the Apoſtle gives, 1 <hi>Pet.</hi> 2.11. <hi>I beſeech you as Strangers and Pilgrims,</hi> (ſaith he) <hi>ab<g ref="char:EOLhyphen"/>ſtain from fleſhly Luſts, which war a<g ref="char:EOLhyphen"/>gainſt the Soul.</hi>
+            </p>
+            <p>Theſe are the dangerous Enemies that Chriſtians have to grapple with; and none can overcome them, but through Faith in Chriſt Jeſus.</p>
+            <p>Now ſome may ask, why this Fight of Faith is call'd a good Fight?</p>
+            <p>Unto which I anſwer, It may be ſo called upon ſeveral accounts; As,</p>
+            <list>
+               <item>1. Becauſe they that are ingag'd in this Warfare, do fight for a good Cauſe, the beſt that ever Souldiers fought for; they being God's Ene<g ref="char:EOLhyphen"/>mies as well as theirs, whom they fight againſt; and his Glory as well
+<pb n="14" facs="tcp:50794:8"/>as their own Salvation, is that which is contended for.</item>
+               <item>2. They have a good Captain, the beſt that ever Souldiers fought under; for the Lord Jeſus Chriſt is their Captain and Leader, <hi>Heb.</hi> 2.10.</item>
+               <item>3. They are furniſhed with the beſt Armour and Weapons, that e<g ref="char:EOLhyphen"/>ver Souldiers made uſe of. The Chriſtian Armour lis Armour of proof; and their <hi>Weapons are ſpiri<g ref="char:EOLhyphen"/>tual, and mighty through God, for the pulling down the ſtrong Holds of Sin,</hi> Epheſ. 6.10, — 17. 2 Cor. 10.3, 4, 5.</item>
+               <item>4. Their Wages are the beſt that ever Souldiers receiv'd; <hi>He that o<g ref="char:EOLhyphen"/>vercometh, ſhall inherit all things; and I will be his God, and he ſhall be my Son,</hi> Rev. 21.7. So chap. 2.7, 10, 11, 17. chap. 3.5, 12, 21.</item>
+            </list>
+            <p>There is good reaſon you ſee, why the Life of a Chriſtian may be compared to a Warfare; and why this ſpiritual Combate, or Fight of Faith, may be ſaid to be a good Fight. Let us all then be perſwaded to fight this good Fight of Faith. Never had Souldiers greater Encou<g ref="char:EOLhyphen"/>ragement
+<pb n="15" facs="tcp:50794:8"/>to fight, than we have un<g ref="char:EOLhyphen"/>der Chriſt's Banner; and never had Souldiers more need to fight than we; for we muſt either fight or die; fight couragiouſly, or periſh e<g ref="char:EOLhyphen"/>ternally. And if we will reſolve up<g ref="char:EOLhyphen"/>on this, we muſt ſee that our Faith be true and ſaving; for ſuch as want a true Faith, cannot poſſibly fight the Fight of Faith; therefore la<g ref="char:EOLhyphen"/>bour we for a lively Faith, and then live we in the lively Exerciſe of it.</p>
+            <p>Thus you ſee what is meant by the firſt Words in my Text, <hi>I have fought a good Fight.</hi> I proceed now to the next Words.</p>
+            <p>
+               <hi>I have finiſhed my Courſe; q. d.</hi> God appointed me a Race to run, both as a Chriſtian, and alſo as an Apoſtle and Miniſter of Chriſt; the which Race I have now finiſhed, and am come to the End and Period of my Days, <hi>Act.</hi> 20.22, — 24.</p>
+            <p>The Life of a Chriſtian is often (in Scripture) compared to a Race, as well as to a Warfare, 1 <hi>Cor.</hi> 9.24, — 27. <hi>Heb.</hi> 12.1.</p>
+            <p>Well then, <hi>let us lay aſide every Weight, and the Sin which doth ſo eaſi<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:50794:9"/>beſet us, and let us run with Patience the Race that is ſet before us.</hi> Let us <hi>preſs forward towards the Mark,</hi> as this great Apoſtle did, <hi>Phil.</hi> 3.13, 14. He ran the Chriſtian Race with an holy Activity and Vigour, till he got to the Goal, and won the Prize: <hi>Let us ſo run, that we may obtain.</hi>
+            </p>
+            <p>What a bleſſed Condition is that Perſon in, who can think of his Diſ<g ref="char:EOLhyphen"/>ſolution with Joy and Comfort, and can ſay with an holy Triumph, I have finiſhed my Courſe? Such a Condition was this holy Apoſtle in, when he writ this Epiſtle to <hi>Timothy;</hi> he knew,<note place="margin">Phil. 1.21.</note> 
+               <hi>that to die was his gain:</hi> having <hi>fought a good Fight,</hi> and thrô Chriſt overcome: Having <hi>run the Race that was ſet before him, and kept the Faith unto the end: i. e.</hi> adhered conſtantly in Judgment and Practice, to the Faith he profeſſed, and prea<g ref="char:EOLhyphen"/>ched to others; he could therefore ſay, with the fulleſt aſſurance,</p>
+            <p>
+               <hi>Henceforth there is laid up for me a Crown of Righteouſneſs,</hi> &amp;c.</p>
+            <p>Heaven is expreſs'd in Scripture by ſeveral Metaphorical Names; as ſometimes it is called <hi>Paradiſe,</hi> 2 Cor. 12, 2, 4.</p>
+            <pb n="17" facs="tcp:50794:9"/>
+            <p>Sometimes it is called an <hi>Houſe, Joh.</hi> 14.2. ſometimes it is called a <hi>City, Heb.</hi> 11.16. ſometimes it is called a <hi>Kingdom, Luke</hi> 12.32. And ſometimes it is called a <hi>Crown,</hi> as here in my Text.</p>
+            <p>
+               <q>For the Pleaſantneſs of it, it is called <hi>Paradiſe;</hi> to note our A<g ref="char:EOLhyphen"/>bode and Reſt in it, it is called an <hi>Houſe;</hi> for the Amplitude of it, it is called a <hi>City;</hi> and for the Splendor of it, a <hi>Kingdom.</hi>
+               </q> And to ſhew the exceeding Height of Glory that Believers are advanced to, it is called a <hi>Crown.</hi> Sometimes a Crown of <hi>Life,</hi> Jam. 1.12. ſome<g ref="char:EOLhyphen"/>times a Crown of <hi>Glory,</hi> 1 Pet. 5.4. And here in my Text, a Crown of <hi>Righteouſneſs.</hi>
+            </p>
+            <p>
+               <hi>Why is it called a Crown of Righte<g ref="char:EOLhyphen"/>ouſneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It may be ſo called on ſeve<g ref="char:EOLhyphen"/>ral accounts.</p>
+            <list>
+               <item>1. Becauſe it is the Purchaſe of Chriſt's Righteouſneſs, <hi>Epheſ.</hi> 1.14. <hi>Heb.</hi> 9.12. <hi>Rom.</hi> 5.18.</item>
+               <item>2. Becauſe it is given as a free Re<g ref="char:EOLhyphen"/>ward, to ſuch as lead a righteous Life, <hi>Rom.</hi> 2.7, 10. <hi>chap.</hi> 6.23. <hi>Iſa.</hi> 3.10.</item>
+               <pb n="18" facs="tcp:50794:10"/>
+               <item>3. Becauſe the Righteous God hath promiſed it, and therefore will beſtow it, <hi>Jam.</hi> 1.12. <hi>Heb.</hi> 6.10.</item>
+            </list>
+            <p>Now the whole Verſe may be thus paraphras'd, [<hi>Henceforth,</hi> or <hi>as to what remains, there is appointed, pre<g ref="char:EOLhyphen"/>pared, and in ſafe keeping for me, eter<g ref="char:EOLhyphen"/>nal Life and Happineſs, an immortal Crown of Glory; which the Righteous God hath promiſed, and therefore will beſtow it; a Crown which is the Pur<g ref="char:EOLhyphen"/>chaſe of Chriſt's Righteouſneſs, and am<g ref="char:EOLhyphen"/>ple Reward of mine, though I have no ways merited or deſerved it. Another kind of Crown is this, than what the Conquerors uſed to have in the Grecian Games, even a great and moſt excellent Reward; a Glory with which my whole Man ſhall be encompaſſed, as a Man's Head is with a Crown.</hi>
+            </p>
+            <p>Such a Crown of Righteouſneſs <hi>will the Lord the righteous Judg give me at the Day of Judgment;</hi>
+               <note place="margin">Mat. 16.27. Rom. 2.6, 10.</note> (when all ſhall be rewarded according to their Works:) <hi>and not to me only ſhall this Crown be given as my particular Reward; but whoſoever ſhall truly be<g ref="char:EOLhyphen"/>lieve in Chriſt, and ſhall ſo lead their Lives in this World, as that they can
+<pb n="19" facs="tcp:50794:10"/>deſire, wait for, and be well pleaſed, with the Thoughts and Hopes of his coming to Judgment, unto them will he give the ſame Reward alſo.</hi>
+            </p>
+            <p>Thus much ſhall ſuffice for Expli<g ref="char:EOLhyphen"/>cation.</p>
+            <p>
+               <hi>I come now to the Doctrine.</hi> And that which I ſhall build my preſent Diſcourſe upon, and which natural<g ref="char:EOLhyphen"/>ly ariſeth from the Words of my Text, is as followeth.</p>
+            <p>Doct. <hi>There is eternal Life and Happineſs, an immortal Crown of Glory, yea, the higheſt Felicity that the Heart of Man can wiſh or deſire, appointed, purchaſed, and prepared for every believing Soul, who overcomes in the ſpi<g ref="char:EOLhyphen"/>ritual Warfare, and continues faithful unto the Death.</hi>
+            </p>
+            <p>Jam. 1.12. <hi>Bleſſed is the Man that endureth Temptation; for when he is tried, he ſhall receive the Crown of Life, which the Lord hath promiſed to them that love him.</hi>
+            </p>
+            <pb n="20" facs="tcp:50794:11"/>
+            <p>Rev. 21.7. <hi>He that overcometh ſhall inherit all things, and I will be his God, and he ſhall be my Son.</hi>
+            </p>
+            <p>1 Cor. 2.9. <hi>Eye hath not ſeen, nor Ear heard, neither have entred into the Heart of Man, the things which God hath prepared for them that love him.</hi>
+            </p>
+            <p>
+               <q>The Eye may have ſeen much, and the Ear may have heard of more; but the Heart may conceive of a far greater Happineſs than ei<g ref="char:EOLhyphen"/>ther Eye hath ſeen, or Ear hath heard of; yet all comes infinitely ſhort of that Happineſs, which God hath prepared for his faithful Peo<g ref="char:EOLhyphen"/>ple.</q>
+            </p>
+            <p>Mat. 13.43. <hi>Then ſhall the Righte<g ref="char:EOLhyphen"/>ous ſhine forth as the Sun, in the King<g ref="char:EOLhyphen"/>dom of their Father.</hi>
+            </p>
+            <p>Rev. 2.10. <hi>Be thou faithful unto Death, and I will give thee a Crown of Life.</hi>
+            </p>
+            <p>Many more Scriptures might be brought for the proof of the Point laid down; but theſe which I have mentioned, are ſufficient to evidence the Truth thereof.</p>
+            <pb n="21" facs="tcp:50794:11"/>
+            <p>Now the Method which I ſhall obſerve in ſpeaking to this Doctrine, will be to ſhew you, (ſo far as the Lord ſhall enable me)</p>
+            <list>
+               <item>1. <hi>When Believers ſhall come to the Enjoyment of this Happineſs.</hi>
+               </item>
+               <item>2. <hi>Wherein it will chiefly conſiſt.</hi>
+               </item>
+               <item>3. <hi>
+                     <g ref="char:V">Ʋ</g>pon what account the Lord will confer it upon them.</hi> And,</item>
+               <item>4. <hi>Make Application.</hi>
+               </item>
+            </list>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> I. Then, <hi>When ſhall Believers come to the Enjoyment of this Happi<g ref="char:EOLhyphen"/>neſs?</hi>
+            </p>
+            <p>I anſwer, They ſhall enjoy it in part at their Death, but fully at the Reſurrection. For,</p>
+            <p n="1">1. At Death, the Souls of the Faithful do immediately paſs into Heaven, and their Bodies lie aſleep in their Graves, as in Beds of Reſt. (Iſa. 57.2.) <hi>They ſhall enter into Peace, they ſhall reſt in their Beds.</hi>
+            </p>
+            <p>The Death of the Righteous is a ſweet Sleep, out of which they ſhall be awaked; and their Graves in like manner, are Beds of Reſt, out of which they ſhall riſe again.</p>
+            <pb n="22" facs="tcp:50794:12"/>
+            <p>That the Bodies of the Saints do thus reſt in their Graves till the ge<g ref="char:EOLhyphen"/>neral Reſurrection, I know none that will deny; but that their Souls (the mean while) are in the actual En<g ref="char:EOLhyphen"/>joyment of Happineſs with Chriſt, is denied by ſome: though I know not the leaſt Grounds they have to deny it. And it has often been a wonder to me, (as it may be to any who conſiderately reads the Scrip<g ref="char:EOLhyphen"/>tures) that ever ſo plain a Truth as this is, ſhould be ſo much as queſtio<g ref="char:EOLhyphen"/>ned by any. Yet ſome (profeſſing the Chriſtian Religion) do poſitive<g ref="char:EOLhyphen"/>ly deny it; affirming that the Soul doth ſleep with the Body till the ge<g ref="char:EOLhyphen"/>neral Reſurrection. But ſurely St. <hi>Paul</hi> would never have been in a Strait, (as he expreſſed himſelf to be, <hi>Phil.</hi> 1.23.) if he were to be re<g ref="char:EOLhyphen"/>duced upon his Diſſolution into a Condition of ſtupid Sleep, without any Capacity of glorifying or en<g ref="char:EOLhyphen"/>joying God:<note place="margin">See Dr. <hi>Manton</hi> on 2 <hi>Cor.</hi> 5. <hi>v.</hi> 8. <hi>p.</hi> 67.</note> 
+               <hi>I am in a Strait betwixt two</hi> (ſaith he) <hi>having a Deſire to de<g ref="char:EOLhyphen"/>part, and to be with Chriſt, which is far better.</hi> 
+            </p>
+            <q>
+               <p>To be with Chriſt, is to be in Heaven, for there Chriſt
+<pb n="23" facs="tcp:50794:12"/>is at the Right-hand of God, (<hi>Col.</hi> 3.1.) Now the Apoſtle ſpeaketh not this in regard of his Body, but in regard of his Soul; for his Body could not be with Chriſt preſently upon his Diſſolu<g ref="char:EOLhyphen"/>tion, till it was raiſed up at the Laſt-day: but he knew that his Soul ſhould, and that it would be in a far better State than the e<g ref="char:EOLhyphen"/>ſtate it enjoyed here.</p>
+               <p>
+                  <hi>But is it not better</hi> (you will ſay) <hi>to remain here, and ſerve God, than to depart hence?</hi>
+               </p>
+               <p>It were ſo, if the Soul was in a State wherein we neither know, nor love Chriſt? Yea it would certainly be far worſe for <hi>Paul,</hi> to have his Body rotting in the Grave, and his Soul without all Fruition of God, if this were true.</p>
+            </q>
+            <p> But he well knew, that if once his Soul was ſeparated from the Body, he ſhould enjoy a far greater Happi<g ref="char:EOLhyphen"/>neſs than he was capable of enjoying whilſt he was here.</p>
+            <p>Many more Scriptures might be brought for the proof of this Truth; I ſhall name a few.</p>
+            <pb n="24" facs="tcp:50794:13"/>
+            <p>Luk. 16.22. <hi>And it came to paſs, that the Beggar died, and was carried by the Angels into</hi> Abraham<hi>'s Boſom.</hi>
+               <q>By the Boſom of <hi>Abraham</hi> is meant Heaven, and Hell is oppo<g ref="char:EOLhyphen"/>ſed to it; and 'tis explain'd, <hi>ver.</hi> 25. <hi>He is comforted, but thou art tormented.</hi>
+               </q> Heaven is a Place of Comfort, and Hell is a Place of Tor<g ref="char:EOLhyphen"/>ment: No ſooner did <hi>Lazarus</hi> die, but he was carried by the Angels into Heaven: No ſooner did the rich Man die, but he was dragged by the Devils into Hell. (<hi>Ver.</hi> 23, 24.) <hi>And in Hell he lift up his Eyes being in Torment, and ſeeth</hi> Abraham <hi>afar off, and</hi> Lazarus <hi>in his Boſom.</hi>
+               <q>There<g ref="char:EOLhyphen"/>fore I argue, not only from <hi>La<g ref="char:EOLhyphen"/>zarus</hi> his being in <hi>Abraham</hi>'s Bo<g ref="char:EOLhyphen"/>ſom, but alſo from the rich Man's being in Hell; for God is not more prone to puniſh, than he is to reward. If the Wicked be in Torment as ſoon as they die, then the Saints are in their Hap<g ref="char:EOLhyphen"/>pineſs preſently upon their Diſ<g ref="char:EOLhyphen"/>ſolution.</q>
+            </p>
+            <p>Another Place is <hi>Luke</hi> 16.9. <hi>And I ſay unto you, make to your ſelves
+<pb n="25" facs="tcp:50794:13"/>Friends of the Mammon of <g ref="char:V">Ʋ</g>nrighte<g ref="char:EOLhyphen"/>ouſneſs, that when ye fail, they may re<g ref="char:EOLhyphen"/>ceive you into everlaſting Habitations. i. e.</hi> Do good with your worldly Riches, and thereby evidence your Faith to be true, and ſo conſequent<g ref="char:EOLhyphen"/>ly make God your Friend; that when you come to die, he may re<g ref="char:EOLhyphen"/>ceive you into Heaven, 1 <hi>Tim.</hi> 6.17, — 19. <hi>Luk.</hi> 19.8. <hi>Act.</hi> 10.4. <hi>Mat.</hi> 25.34,—36.</p>
+            <p>
+               <hi>When ye fail;</hi>
+               <q>What is that time failing? It cannot be meant of Condemnation in the Judgment, for there is no eſcaping or rever<g ref="char:EOLhyphen"/>ſing that Sentence; therefore 'tis meant of the Hour of Death; then are Believers received into ever<g ref="char:EOLhyphen"/>laſting Habitations, and their e<g ref="char:EOLhyphen"/>verlaſting Habitation is in Hea<g ref="char:EOLhyphen"/>ven.</q>
+            </p>
+            <p>Another Argument which pro<g ref="char:EOLhyphen"/>veth this Truth, is that with which Chriſt ſilenc'd the Sadduces, <hi>Mat.</hi> 22.31, 32. <hi>Have ye not read that which was ſpoken unto you by God, ſaying, I am the God of</hi> Abraham, <hi>and the God of</hi> Iſaac, <hi>and the God of</hi> Jacob; <hi>God is not the God of the Dead, but of the
+<pb n="26" facs="tcp:50794:14"/>Living.</hi>
+               <q>The Sadduces denied the Immortality of the Soul, as well as the Reſurrection of the Body; and Chriſt diſproveth both by this Argument: <hi>I am the God of</hi> Abraham, <hi>and the God of</hi> Iſaac, <hi>and the God of</hi> Jacob.<note place="margin">Exod. 3.6.</note> Theſe words were ſpoken by God unto <hi>Moſes</hi> long after the Deceaſe of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac</hi> and <hi>Jacob;</hi> and it is not ſaid, I <hi>was,</hi> but I <hi>am</hi> the God of <hi>Abraham,</hi> &amp;c.</q> Now ſaith Chriſt, <hi>God is not the God of the Dead, but of the Living:</hi> therefore <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> (though long ago deceaſed) are yet alive: So the Souls of all the Faithful departed out of this World, do live to God in Heaven, <hi>Luke</hi> 20.38.</p>
+            <p>Another Scripture which clearly proves this Truth, is <hi>Luke</hi> 23.43. The penitent Thief had deſired Chriſt to remember him, when he came into his Kingdom: And Chriſt anſwered him again, and ſaid, <hi>Verily I ſay unto thee, To day ſhalt thou be with me in Paradiſe.</hi>
+               <q>Chriſt ſhew<g ref="char:EOLhyphen"/>eth, that he would not defer his Hope, but his Deſire ſhould be
+<pb n="27" facs="tcp:50794:14"/>accompliſhed that Day; 'tis not adjourned to many Days, Months or Years, but <hi>to Day,</hi> ſaith Chriſt; <hi>q. d.</hi> Thou ſhalt immediately en<g ref="char:EOLhyphen"/>joy thy Deſire. Now what Chriſt promiſed to him, he promiſed it to him as a penitent Believer; and what belongeth to one Believer, belongeth to all in a <hi>like Caſe.</hi> Therefore if his Soul in the very Day of his Death was tranſlated to Paradiſe, the Souls of other Believers will be ſo in like manner.</q> Rev. 2.7. <hi>To him that overcometh, will I give to eat of the Tree of Life, which is in the midſt of the Paradiſe of God.</hi>
+               <q>No doubt but by Paradiſe is meant Heaven, and ſo the A<g ref="char:EOLhyphen"/>poſtle explaineth it, 2 <hi>Cor.</hi> 12.2, 4.</q> Thither the penitent Thief went immediately after his Death, and ſo doth every believing Soul.</p>
+            <p>Another Scripture that proves this Truth, and the laſt that I ſhall name, is 2 Cor. 5.8. <hi>We are confident, I ſay, and willing, rather to be abſent from the Body, and to be preſent with the Lord.</hi>
+            </p>
+            <pb n="28" facs="tcp:50794:15"/>
+            <p>This is ſo plain a Text for the proof of this Truth, that if we had no other Scripture to prove it by, even this alone were ſufficient: For <hi>we know</hi> (ſaith the Apoſtle) <hi>that whilſt we are at home in the Body, we are abſent from the Lord,</hi> ver. 6. But are <hi>will, rather to be abſent from the Body, and to be preſent with the Lord,</hi> ver. 8. So that as ſoon as the Souls of the Faithful are ſeparated from the Body, they are taken immedi<g ref="char:EOLhyphen"/>ately into the Preſence of the Lord; <hi>in whoſe Preſence there is Fulneſs of Joy,</hi>
+               <note place="margin">Pſa. 16.11.</note> 
+               <hi>and at whoſe Right-hand there are Pleaſures for evermore.</hi>
+            </p>
+            <p>And thus I have ſufficiently prov'd, that the Souls of the Faith<g ref="char:EOLhyphen"/>ful at Death, do immediately paſs in<g ref="char:EOLhyphen"/>to Heaven, and their Bodies lie a<g ref="char:EOLhyphen"/>ſleep in their Graves, as in Beds of Reſt. Now,</p>
+            <p n="2">2. At the general Reſurrection, when Chriſt ſhall come to Judgment, the Bodies of the Saints ſhall be raiſed in Glory, and re-united unto their Souls, even theſe very ſelf ſame Bodies which now we have. 1 <hi>Theſſ.</hi>
+               <pb n="29" facs="tcp:50794:15"/>4.16. <hi>For the Lord himſelf ſhall de<g ref="char:EOLhyphen"/>ſcend from Heaven with a Shout, with the Voice of the Archangel, and with the Trump of God, and the Dead in Chriſt ſhall riſe firſt.</hi> So <hi>Joh.</hi> 5.28, 29. <hi>Marvel not at this,</hi> (ſaith Chriſt) <hi>for the hour is coming, in the which all that are in the Graves, ſhall hear his Voice, and ſhall come forth; they that have done good, unto the Reſurrection of Life, and they that have done evil, unto the Reſurrection of Damnation.</hi>
+            </p>
+            <p>This will be a joyful Day to eve<g ref="char:EOLhyphen"/>ry believing Soul, but a Day of Ter<g ref="char:EOLhyphen"/>ror and Amazement to the Wicked; <hi>When the Lord Jeſus Chriſt ſhall be thus revealed from Heaven, with his mighty Angels, in flaming Fire, taking Vongeance on then that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt; who ſhall be puniſhed with everlaſting Deſtruction, from the Pre<g ref="char:EOLhyphen"/>ſence of the Lord, and from the Glory of his Power: When he ſhall come to be glorified in his Saints, and to be admired in all them that believe,</hi> 2 Theſſ. 1.7,—10.</p>
+            <p>The Thoughts of this moſt Bleſ<g ref="char:EOLhyphen"/>ſed Day (which <hi>Job</hi> foreſaw by
+<pb n="30" facs="tcp:50794:16"/>Faith) did much refreſh his Soul, under his heavy Afflictions.</p>
+            <p>Job 19.25, 26, 27. <hi>I know</hi> (ſaith he) <hi>that my Redeemer liveth, and that he ſhall ſtand at the latter Day upon the Earth: And though after my Skin Worms deſtroy this Body, yet in my Fleſh ſhall I ſee God; whom I ſhall ſee for my ſelf, and mine Eyes ſhall be<g ref="char:EOLhyphen"/>hold, and not another, though my Reins be conſumed within me. Job</hi> was well aſſured, that the ſelf-ſame Body which had ſuffered ſo much in the World, and which ſhould not in the Earth, and be eaten with Worms, ſhould be raiſed again at the laſt Day.</p>
+            <p>Yet this we muſt know, that tho the ſame Body ſhall be raiſed again, yet a very great Change ſhall paſs upon it. 1 Cor. 15.42,—44. <hi>It is ſown in Corruption, it is raiſed in In<g ref="char:EOLhyphen"/>corruption; it is ſown in Diſhonour, it is raiſed in Glory: it is ſown in Weak<g ref="char:EOLhyphen"/>neſs, it is raiſed in Power: It is ſown a natural Body, it is raiſed a ſpiritual Body.</hi> So <hi>Phil.</hi> 3.20, 21. <hi>Our Con<g ref="char:EOLhyphen"/>verſation is in Heaven,</hi> (ſaith the A<g ref="char:EOLhyphen"/>poſtle there) <hi>from whence alſo we
+<pb n="31" facs="tcp:50794:16"/>look for the Saviour the Lord Jeſus Chriſt; who ſhall change our vile Body, that it may be faſhioned like unto his Glorious Body, according to the Work<g ref="char:EOLhyphen"/>ing whereby he is able even to ſubdue all things unto himſelf.</hi>
+            </p>
+            <p>O bleſſed Change indeed! They ſhall be faſhioned like unto his glo<g ref="char:EOLhyphen"/>rious Body! <hi>Now</hi> the Bodies of the Saints are <hi>vile,</hi> but <hi>then</hi> they ſhall be <hi>glorious.</hi> For Chriſt's Body now glorified in Heaven, is ſurely a glo<g ref="char:EOLhyphen"/>rious Body indeed<note n="*" place="margin">Rev. 1, 13,—16. Mat. 17.1, 2.</note>: And the Bo<g ref="char:EOLhyphen"/>dies of the Saints ſhall be like his.</p>
+            <p>O how joyfully will the Soul re<g ref="char:EOLhyphen"/>unite with the Body, when this glo<g ref="char:EOLhyphen"/>rious Change is paſſed upon it! And what a bleſſed Union will this be, nevermore to be broken! O then will the Saints be in a Capacity of enjoying the higheſt Felicity.</p>
+            <p n="3">3. Their Bodies and Souls thus re-united, ſhall be received into Man<g ref="char:EOLhyphen"/>ſions of Bliſs and Glory, where they ſhall for ever be with the Lord, and be perfectly happy to all Eternity. And O how ſhould the Thoughts of this chear our Hearts, and fortify us
+<pb n="32" facs="tcp:50794:17"/>under all our Trials. <hi>Let not your Hearts be troubled,</hi>
+               <note place="margin">Joh. 14.1, 2, 3.</note> (ſaith Chriſt) <hi>ye believe in God, believe alſo in me. In my Father's Houſe are many Manſions; if it were not ſo, I would have told you; I go to prepare a Place for you: And if I go and prepare a Place for you, I will come again, and receive you unto my ſelf, that where I am, there ye may be alſo.</hi> O comfortable Words in<g ref="char:EOLhyphen"/>deed! Yea, and Chriſt has left them for our Comfort: <hi>Wherefore comfort one another with theſe Words,</hi>
+               <note place="margin">1 Theſſ. 4.18.</note> (ſaith the Apoſtle.) <hi>With what words?</hi> Why that Jeſus Chriſt will come in the Clouds,<note place="margin">Ver. 16, 17.</note> and meet Believers in the Air, <hi>and they ſhall for ever be with the Lord.</hi>
+            </p>
+            <p>O bleſſed and glorious Day, when Chriſt ſhall pronounce that bleſſed Sentence to ſuch as have been his faithful Followers!<note place="margin">Mat. 25.34</note> 
+               <hi>Come ye Bleſſed of my Father, inherit the Kingdom pre<g ref="char:EOLhyphen"/>pared for you from the Foundation of the World.</hi>
+            </p>
+            <p>The Members of Chriſt are now look'd upon by the World, as a Company of Hypocrites and vile Miſcreants, even ſuch as are unfit
+<pb n="33" facs="tcp:50794:17"/>to live in a Common-wealth; but Chriſt pronounceth them <hi>Bleſſed.</hi> The World ſaith,<note place="margin">Act. 22.22,</note> 
+               <hi>Away with ſuch Fellows from the Earth, for it is not fit that they ſhould live;</hi> but Chriſt ſaith,<note place="margin">Mat. 25.34</note> 
+               <hi>Come ye Bleſſed.</hi>
+            </p>
+            <p>
+               <q>And Chriſt calls them the Bleſ<g ref="char:EOLhyphen"/>ſed of his Father; ſhewing there<g ref="char:EOLhyphen"/>by the Orignal Cauſe and Foun<g ref="char:EOLhyphen"/>tain of all our Happineſs. The beginning of our Salvation was from an higher Cauſe than our own Holineſs; yea, than Chriſt's Merit; even from the free Grace and Favour of God the Father, He is the principal efficient Cauſe of the Saints Bleſſedneſs. Chriſt as Mediator, is but the way to the Father, (<hi>Joh.</hi> 14.6.) It is the Father that appointed Chriſt, and gave him to Sinners, (<hi>Joh.</hi> 3.16.) And in time brings them to cloſe with him, (<hi>Joh.</hi> 6.44.) It is the Father that prepared this King<g ref="char:EOLhyphen"/>dom for them before the Founda<g ref="char:EOLhyphen"/>tion of the World.</q> They are not leſs beloved and bleſſed by the Father, than by the Son who re<g ref="char:EOLhyphen"/>deemed them; but whoſoever is
+<pb n="34" facs="tcp:50794:18"/>dear unto the Son, is dear alſo unto the Father.</p>
+            <p>O what Soul-enraviſhing Joys will the Saints be filled with, when Chriſt ſhall pronounce this bleſſed Sentence, <hi>Come ye Bleſſed of my Father!</hi>
+            </p>
+            <p>
+               <q>To the Wicked he will ſay, <hi>De<g ref="char:EOLhyphen"/>part,</hi> but to the Saints, <hi>Come:</hi> as the Quinteſſence of all Miſery li<g ref="char:EOLhyphen"/>eth in the one, ſo the Conſum<g ref="char:EOLhyphen"/>mation of all Bleſſedneſs lieth in the other.</q>
+            </p>
+            <p>We ſee here, what the Sentence will be at the Grat Day; the reaſon of this Sentence followeth;</p>
+            <p>
+               <hi>For, I was an hungred, and ye gave me Meat; I was thirſty, and ye gave me Drink; I was a Stranger, and ye took me in; Naked, and ye clothed me; I was ſick, and ye viſited me; I was in Priſon, and ye came unto me;</hi> (Mat. 25.35, 36.) Theſe good Works are mentioned by Chriſt, and given as a Reaſon of the Sentence, (not as if Heaven was merited by them, but) as the undoubted Evidences and Fruits of a true and ſaving Faith.</p>
+            <pb n="35" facs="tcp:50794:18"/>
+            <p>And that a true Faith is implied in the Works here mentioned, is very clear and evident;</p>
+            <p n="1">1. From the Expreſſion it ſelf, <hi>For I was an hungred,</hi> and ye gave <hi>me</hi> Meat, (ſaith Chriſt;) 'twas <hi>Chriſt</hi> they reſpected in his <hi>Members.</hi>
+            </p>
+            <p>Now it requireth Faith to ſee Chriſt in a <hi>poor needy Perſon,</hi> or <hi>Pri<g ref="char:EOLhyphen"/>ſoner;</hi> to love Chriſt in them above our worldly Goods; and to part with our Wealth for their Relief, becauſe they belong to Chriſt. This is a great Piece of Self-denial, and doubbleſs the Fruit of a ſaving Faith; for 'tis not meerly the relieving the Poor, but the doing of it, as <hi>in,</hi> and <hi>to Chriſt.</hi>
+            </p>
+            <p n="2">2. Faith and good Works are very nearly linked together; for Faith is not ſound and ſaving, unleſs it pro<g ref="char:EOLhyphen"/>duce theſe good Works; and theſe Works are not acceptable, unleſs they proceed from Faith, and are done in Faith, (<hi>Heb.</hi> 11.6. 1 <hi>Tim.</hi> 1.5.)</p>
+            <p>Where there is true Faith, there will alſo be good Works, as the ge<g ref="char:EOLhyphen"/>nuine Effects and Fruits of it; yet
+<pb n="36" facs="tcp:50794:19"/>certain it is, that the beſt of thoſe Works do no ways deſerve Heaven, (<hi>Luk.</hi> 17.10. <hi>Epheſ.</hi> 2.8, 9.) And the Saints will be ſo far from plea<g ref="char:EOLhyphen"/>ding their Works, in a way of De<g ref="char:EOLhyphen"/>ſert or Merit, that they will rather altogether diſown them; being ſen<g ref="char:EOLhyphen"/>ſible of their many and great Im<g ref="char:EOLhyphen"/>perfections, and how far ſhort they came of their Duty.</p>
+            <p>
+               <hi>Then ſhall the Righteous anſwer him, ſaying,</hi>
+               <note place="margin">Mat. 25.37.</note> 
+               <hi>Lord, when ſaw we thee an hun<g ref="char:EOLhyphen"/>gred, and fed thee; or thirſty, and gave thee Drink?</hi>
+               <note place="margin">Ver. 38.</note> 
+               <hi>When ſaw we thee a Stranger, and took thee in; or naked, and clothed thee? Or when ſaw we thee ſick,</hi>
+               <note place="margin">Ver. 39.</note> 
+               <hi>or in Priſon, and came unto thee?</hi>
+            </p>
+            <p>
+               <hi>And the King ſhall anſwer, and ſay unto them,</hi>
+               <note place="margin">Ver. 40.</note> 
+               <hi>Verily, I ſay unto you, in as much as ye have done it unto one of the leaſt of theſe my Brethren, ye have done it unto me.</hi>
+            </p>
+            <p>By the way, we may obſerve theſe three or four Particulars;</p>
+            <p n="1">1. The wonderful Love and Hu<g ref="char:EOLhyphen"/>mility of the Lord Jeſus Chriſt, the
+<pb n="37" facs="tcp:50794:19"/>King of Glory, in owning the poor<g ref="char:EOLhyphen"/>eſt,<note place="margin">Joh. 20.17. Heb. 2.11, 12.</note> and leaſt of his Members for his Brethren.</p>
+            <p>—<hi>In as much as ye have done it</hi> (ſaith he) <hi>unto one of the</hi> leaſt <hi>of theſe my</hi> Brethren, <hi>ye have done it unto me.</hi> O wonderful condeſcending Love! that the great God ſhould take ſuch poor Worms as we, into ſo near a Relation unto himſelf.</p>
+            <p n="2">2. Obſerve, that Chriſt takes that which is done to his Members, as done to himſelf: <hi>I was an hugred</hi> (ſaith he) <hi>and ye gave me Meat; I was thirſty, and ye gave me Drink; I was a Stranger, and ye took me in; Naked, and ye clothed me; I was ſick, and ye viſited me; I was in Priſon, and ye came unto me:</hi>— For <hi>in as much as ye have done it to one of the leaſt of theſe my Brethren, ye have done it unto me.</hi>
+            </p>
+            <p>So that we ſee, whatever Favours are ſhewed to Chriſt's poor Mem<g ref="char:EOLhyphen"/>bers,<note place="margin">Mat. 10.40, 41, 42.</note> whatever Acts of Mercy and Charity are exercis'd towards them; Chriſt takes all as done to <hi>himſelf.</hi>
+            </p>
+            <pb n="38" facs="tcp:50794:20"/>
+            <p>And on the other hand, whatſo<g ref="char:EOLhyphen"/>ever is done againſt the Members of Chriſt, whatſoever Unmercifulneſs, or Acts of Cruelty are exercis'd to<g ref="char:EOLhyphen"/>wards them, Chriſt takes it all as done againſt <hi>himſelf.</hi> When ever they are ſlighted and neglected, he looks upon <hi>himſelf</hi> as concerned therein.</p>
+            <p>
+               <hi>I was an hungred,</hi>
+               <note place="margin">Mat. 25 42</note> (will he ſay) <hi>and ye gave me no Meat; I was thirſty, and ye gave me no Drink;</hi>
+               <note place="margin">Ver. 43.</note> 
+               <hi>I was a Stranger, and ye took me not in; naked, and ye clothed me not; ſick, and in Priſon, and ye viſited me not.</hi>
+            </p>
+            <p>—For <hi>in as much as ye did it not to one of the leaſt of theſe my</hi> poor Mem<g ref="char:EOLhyphen"/>bers,<note place="margin">Ver. 45.</note> 
+               <hi>ye did it not to me.</hi>
+            </p>
+            <p>So <hi>Act.</hi> 9.4, 5. Saul, Saul, <hi>why perſecuteſt thou me?</hi> (ſaith Chriſt); And <hi>Saul</hi> ſaid, <hi>Who art thou, Lord?</hi> And the Lord anſwered him, and ſaid, <hi>I am Jeſus, whom thou perſecu<g ref="char:EOLhyphen"/>teſt.</hi>
+            </p>
+            <p>
+               <hi>Why,</hi> the Lord Jeſus was in Hea<g ref="char:EOLhyphen"/>ven, quite above <hi>Saul</hi>'s reach; <hi>How the could</hi> Saul <hi>perſecute him?</hi> It was in his <hi>Members.</hi> For <hi>Saul</hi> had been perſecuting the poor Members of
+<pb n="39" facs="tcp:50794:20"/>Chriſt, and was now going to <hi>Da<g ref="char:EOLhyphen"/>maſcus</hi> on the ſame Deſign; and Chriſt took all thoſe Acts of Cruelty which were exerciſed towards his <hi>Members,</hi> as if they had been done to his <hi>own Perſon.</hi>
+            </p>
+            <p>Thus alſo ſaith the Prophet to the People of the Lord, Zech. 2.8.—<hi>He that toucheth you, toucheth the Apple of my Eye.</hi>
+            </p>
+            <p>This ſpeaks Comfort to the Mem<g ref="char:EOLhyphen"/>bers of Chriſt, who are hated, and perſecuted for Righteouſneſs ſake; but ſure it ſpeaks Terrour to their Enemies.<note place="margin">Iſa. 34.8.</note> For the Day is coming when the Lord will vindicate his own Cauſe, and will call all ſuch to a Reckoning. And then they will aſſuredly find it hard, <hi>to have kick'd againſt the Pricks,</hi> Act. 9.5.</p>
+            <p n="3">3. We may further obſerve, how very acceptable unto the Lord the Works of <hi>Mercy</hi> and <hi>Charity</hi> are. Theſe are the only Works which are mentioned in the Deſcription of the Laſt Judgment.</p>
+            <p>The Lord takes delight in nothing more than he doth in ſhewing of <hi>Mercy;</hi> no wonder then,<note place="margin">Luk. 6.36.</note> that Acts
+<pb n="40" facs="tcp:50794:21"/>of <hi>Mercy</hi> are ſo very acceptable un<g ref="char:EOLhyphen"/>to him.</p>
+            <p>Jam. 1.27. <hi>Pure Religion and un<g ref="char:EOLhyphen"/>defiled before God and the Father, is this, to viſit the Fatherleſs and Wi<g ref="char:EOLhyphen"/>dows in their Afflictions, and to keep himſelf unſpotted from the World.</hi>
+            </p>
+            <p>And on the other hand, as God is well pleaſed with Acts of <hi>Mercy;</hi> ſo he's greatly provok'd with <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>mercifulneſs,</hi> and Acts of <hi>Cruelty.</hi> As he will ſay to the Righteous and Merciful, <hi>Come, ye Bleſſed;</hi> So he will ſay to the Wicked and Un<g ref="char:EOLhyphen"/>merciful, <hi>Depart, ye Curſed.</hi> He ſhall have <hi>Judgment</hi> without <hi>Mer<g ref="char:EOLhyphen"/>cy,</hi> that hath ſhewed no <hi>Mercy, Jam.</hi> 2.13.</p>
+            <p n="4">4. Obſerve the different Tempers of the Righteous and Wicked in Judgment. The Righteous who have done many good Works, will be aſham'd to hear any of them mentioned by Chriſt, ſo ſenſible are they of their great Imperfections: <hi>Lord, when ſaw we thee an hungred, and fed thee? &amp;c.</hi> (will they ſay.) But the Wicked who have done lit<g ref="char:EOLhyphen"/>tle or no good at all, will be ready
+<pb n="41" facs="tcp:50794:21"/>to excuſe and juſtify themſelves; ſaying, <hi>When ſaw we thee an hungred,</hi>
+               <note place="margin">Matth. 25.44.</note> 
+               <hi>or a thirſt, or a ſtranger, or naked, or ſick, or in Priſon, and did not mi<g ref="char:EOLhyphen"/>niſter unto thee?</hi> But their vain Ex<g ref="char:EOLhyphen"/>cuſes will do them no good; <hi>For theſe ſhall go into everlaſting Puniſh<g ref="char:EOLhyphen"/>ment;</hi>
+               <note place="margin">Ver. 46.</note> 
+               <hi>but the Righteous unto Life Eternal.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> And now I come to the Se<g ref="char:EOLhyphen"/>cond Thing propounded; <hi>which is to ſhew you</hi> (as the Lord ſhall enable me) <hi>wherein the Happineſs of Belie<g ref="char:EOLhyphen"/>vers</hi> (in the other World) <hi>will chiefly conſiſt.</hi>
+            </p>
+            <p>And I humbly conceive, it will chiefly conſiſt in theſe two Particu<g ref="char:EOLhyphen"/>lars following.</p>
+            <list>
+               <item>1. <hi>In a perfect freedom from all that is really Evil.</hi>
+               </item>
+               <item>2. <hi>In the full enjoyment of all that is truly Good.</hi>
+               </item>
+            </list>
+            <p>There is no Tongue indeed can poſſibly expreſs the greatneſs of the
+<pb n="42" facs="tcp:50794:22"/>Saints Happineſs. Yet ſo much may we conceive thereof, by ſeriouſly conſidering theſe two Particulars, as might fill our Souls with breathing Deſires after the Enjoyment of it; and with admiration of God's won<g ref="char:EOLhyphen"/>derful Love, in providing ſuch an Happineſs for us.</p>
+            <p>Queſt. <hi>What then are thoſe Evils that Believers ſhall be freed from at Death?</hi>
+            </p>
+            <p>Why,<note place="margin">Heb. 12.23 1 Cor. 13.10. Eph. 5.27.</note> 1. They'l be freed from all their Sins, Infirmities, Weakneſſes, and Imperfections. And O what an Happineſs will this be, to be per<g ref="char:EOLhyphen"/>fectly freed from Sin! You that groan under the burden of Sin, can ſet your Seal to this Truth, that a perfect Freedom from all our Cor<g ref="char:EOLhyphen"/>ruptions will make us happy indeed. <hi>Chear up then, believing Soul,</hi> whoſe Infirmities and Weakneſſes are thy greateſt Burden; for a time of Re<g ref="char:EOLhyphen"/>freſhment will ſhortly come. Yet a little while, and thou ſhalt ſin no more, nor ſorrow any more. Thou art now troubled for thy Unbelief, thy hardneſs of Heart, and deadneſs
+<pb n="43" facs="tcp:50794:22"/>of Spirit; and that thy Affections are ſo flat and low, thy Corruptions ſo ſtrong, and thy Failings ſo many; and that thou walk'ſt on ſo heavily in the Ways of God, and canſt not do the good thou wouldſt: but Death will knock off all theſe Fetters, and ſet thee free within a while.</p>
+            <p>
+               <hi>O that I might never ſin more againſt my good and gracious God!</hi>
+               <note place="margin">Rom. 7.24.</note> (ſays a poor gracious Soul.) Why, <hi>I tell thee, poor Soul,</hi> (and take it for thy comfort) <hi>that it is but a little while, and thou ſhalt ſin no more, nor ſorrow any more, nor diſhonour thy gra<g ref="char:EOLhyphen"/>cious God any more;</hi> which is now the chief cauſe of thy greateſt Sor<g ref="char:EOLhyphen"/>row.</p>
+            <p>
+               <hi>There is no Comfort ariſeth from hence, to ſuch as are in</hi> Love <hi>and in</hi> League <hi>with</hi> Sin: <hi>but to thoſe whoſe</hi> Sin <hi>is their great</hi> Grief <hi>and</hi> Burden, <hi>it affordeth matter of very great Com<g ref="char:EOLhyphen"/>fort.</hi>
+            </p>
+            <p n="2">2. Believers ſhall likewiſe be freed from all their Temptations and Enemies.<note place="margin">2 Cor 7.5.</note> Now they are troubled on every ſide, and moleſted with many Temptations; <hi>but Death</hi> (with<g ref="char:EOLhyphen"/>in
+<pb n="44" facs="tcp:50794:23"/>a while) <hi>will ſet them free.</hi> For if the time will come, when God's People here on Earth ſhall obtain Freedom from their Enemies in a very great meaſure, how much more when they come to Heaven? (See <hi>Iſa.</hi> 11.9. and <hi>chap.</hi> 65.17, — 25. <hi>Rev.</hi> 20.1, 2, 3.) <hi>Chear up, then Be<g ref="char:EOLhyphen"/>lieving Soul, who art here ſurrounded with many Temptations; for there is no Tempter in Heaven, either to entice thee to Sin, or to trouble and moleſt thee: there are no Snares there to en<g ref="char:EOLhyphen"/>tangle thee; no Enemy there, that ſhall in any-wiſe hurt thee.</hi> No, no, <hi>thou'lt have none but Friends in Heaven, and the beſt of Friends.</hi>
+            </p>
+            <q>
+               <l>There Triumph over Sin is won,</l>
+               <l>The Devil and Death defac'd,</l>
+               <l>The Kingdom of the Juſt begun,</l>
+               <l>And there in Glory plac'd.</l>
+               <l>There Tyrants nothing have to do,</l>
+               <l>Nor Rack, nor Rope is known:</l>
+               <l>Tormentors all, and Satan too,</l>
+               <l>Are fully overthrown.</l>
+            </q>
+            <p>
+               <hi>As one thus expreſſeth it in Metre.</hi>
+            </p>
+            <pb n="45" facs="tcp:50794:23"/>
+            <p n="3">3. Believers ſhall be perfectly freed from all their Sickneſſes, Pains and Sorrows. Rev. 7.16, 17. <hi>They ſhall hunger no more, neither thirſt any more, neither ſhall the Sun light on them, nor any heat. For the Lamb which is in the midſt of the Throne, ſhall feed them, and ſhall lead them un<g ref="char:EOLhyphen"/>to living Fountains of Water: and God ſhall wipe away all Tears from their Eyes.</hi> So chap. 14.13. <hi>Bleſſed are the Dead that die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their Labours.</hi> And again, chap. 21.4. <hi>God ſhall wipe away all Tears from their Eyes; and there ſhall be no more Death, neither Sorrow, nor crying, neither ſhall there be any more pain: for the former things are paſſed away.</hi>
+            </p>
+            <p>O how ſweet is <hi>Health,</hi> after a long pining <hi>Sickneſs!</hi> How ſweet is <hi>Eaſe,</hi> after racking <hi>Pains!</hi> How ſweet is <hi>Peace,</hi> after great <hi>Troubles!</hi> And how ſweet is <hi>Reſt,</hi> after hard <hi>Labours! Why,</hi> in Heaven there will be perfect <hi>Health,</hi> and perfect <hi>Eaſe,</hi> and perfect <hi>Peace,</hi> and <hi>Reſt,</hi> and <hi>Happineſs,</hi> and that for evermore.</p>
+            <pb n="46" facs="tcp:50794:24"/>
+            <p>
+               <hi>Chear up then,</hi> Believing Soul, <hi>who art here exerciſed with</hi> pining Sick<g ref="char:EOLhyphen"/>neſs, <hi>or with</hi> racking Pains; <hi>whoſe Sufferings and Sorrows are many, and great:</hi> for yet a little while, <hi>and all Tears ſhall be wip'd from thine Eyes;</hi> and thou ſhalt be ſick no more, nor in pain any more; <hi>but ſhalt ſhortly take an eternal Farewel of all thy Sufferings, Pains and Sor<g ref="char:EOLhyphen"/>rows.</hi>
+            </p>
+            <p n="4">4. Believers ſhall be freed from Hell, and from all Fears of Dam<g ref="char:EOLhyphen"/>nation. Joh. 5.24. <hi>Verily, verily I ſay unto you, he that heareth my Words, and believeth on him that ſent me,</hi>
+               <note place="margin">John 3.16, 18.</note> hath <hi>everlaſting Life, and ſhall not come in<g ref="char:EOLhyphen"/>to Condemnation, but is paſſed from Death unto Life.</hi> So Rom. 8.1. <hi>There is no Condemnation to them which are in Chriſt Jeſus, who walk not after the Fleſh, but after the Spirit.</hi> O what would the Damned in Hell give, to purchaſe ſuch a Freedom!<note place="margin">Mat. 8.36, 37.</note> 
+               <hi>What ſhall it profit a Man</hi> (ſaith Chriſt) <hi>if he ſhall gain the whole World, and loſe his own Soul? or what ſhall a Man give in exchange for his Soul?</hi> Why, no doubt but the Damned in
+<pb n="47" facs="tcp:50794:24"/>Hell would give ten thouſand Worlds (if they had them) to have their Souls freed from that State of Miſery. But alas, it muſt not be, if they had Millions of Worlds to give for it. O dread<g ref="char:EOLhyphen"/>ful will be the condition of thoſe that muſt be eternally ſeparated from God, and lie under his heavy Wrath for ever! <hi>Who knows the Power of thy Wrath?</hi> (ſaith the Pſalmiſt, <hi>Pſal.</hi> 90.11.) There is none can <hi>expreſs it;</hi> no, nor any <hi>conceive it,</hi> but the Damned in Hell that lie under it. Do thoſe then know what they do, who are run<g ref="char:EOLhyphen"/>ning headlong to that State of Mi<g ref="char:EOLhyphen"/>ſery? And that cannot endure to be controul'd, or ſtop'd in their Courſe thither? O what Pains do many take to undo themſelves! And what haſte do they make to their own Perdition? As if they could not be in Hell too ſoon: or elſe do ima<g ref="char:EOLhyphen"/>gine it to be but a Fancy. How many are there in theſe our Days, that can dare the Great God to damn them? As if they would have the World to know, that
+<pb n="48" facs="tcp:50794:25"/>they have Courage enough to be Damned. O dreadful! what do theſe Perſons think? Their Dam<g ref="char:EOLhyphen"/>nation ſure will come ſoon enough, without their ſo often calling for it. And O it will be very ſad indeed,<note place="margin">Rev. 21.8. Mar. 9.43, —48. Mat. 13.41, 42. Iſa. 65.14.</note> to lie in a <hi>Lake of Fire and Brimſtone! where the Worm dieth not, and the Fire ſhall never be quenched!</hi> And where will be nothing but <hi>howl<g ref="char:EOLhyphen"/>ing,</hi> and <hi>yelling, weeping,</hi> and <hi>wail<g ref="char:EOLhyphen"/>ing,</hi> and <hi>gnaſhing of Teeth!</hi> No Heart can conceive what Horrour and Anguiſh will ſeize the Souls of the Damned in Hell, and even fill them with Rage, and everlaſting Deſparation. Oh! how will they roar, and tear themſelves, both from the Senſe of their Loſs and Pain?</p>
+            <p>Surely, then to eſcape Hell de<g ref="char:EOLhyphen"/>ſerves our uttermoſt Care and Di<g ref="char:EOLhyphen"/>ligence. No Labours ſhould be thought too much, no Pains accoun<g ref="char:EOLhyphen"/>ted too great, for the obtaining Freedom from ſuch Miſeries.</p>
+            <p>O happy Souls moſt ſure are they,<note place="margin">1 Theſſ. 1.10.</note> whom the Lord ſhall ſave from the <hi>Wrath to come.</hi>
+               <note place="margin">Chap. 5.9.</note> Yea, theſe are the
+<pb n="49" facs="tcp:50794:25"/>Perſons that are happy indeed. <hi>And who are they?</hi> Why, all that truly believe in Chriſt, and that overcome in the Spiritual Warfare.</p>
+            <p>
+               <hi>Chear up then, Believing Soul, whom the Lord will free from Hell and Damnation, for thou art the Perſon that haſt cauſe to be chearful.</hi>
+               <note place="margin">Heb. 2.14, 15.</note> Now it may be, thou art full of Fears, leſt Hell ſhould be thine eternal Portion;<note place="margin">Joh. 6.40.</note> but Death (within a while) will put all out of doubt, and free thee from all thy Fears of Damnation.</p>
+            <p>John 10.27, —29. <hi>My Sheep hear my Voice,</hi> (ſaith Chriſt) <hi>and I know them, and they follow me: And I give unto them eternal Life, and they ſhall never periſh; neither ſhall any Man pluck them out of my Hand. My Fa<g ref="char:EOLhyphen"/>ther which gave them me, is greater than all; and none can pluck them out of my Father's Hand.</hi> Well then, every believing Soul is ſafe,<note place="margin">1 Pet. 1.5.</note> 
+               <hi>(though now it may be they have many Doubts)</hi> for the Lord will make good his Promifes to them, and will ſet them far above the reach of Danger.</p>
+            <pb n="50" facs="tcp:50794:26"/>
+            <p n="5">5. At the general Reſurrection, when Chriſt cometh to Judgment, the Bodies of the Faithful ſhall be freed from Corruption, and be rai<g ref="char:EOLhyphen"/>ſed again moſt Glorious Bodies.<note place="margin">1 Cor. 15.43, 53, 54.</note> 
+               <hi>For this Corruptible muſt put on Incorrupti<g ref="char:EOLhyphen"/>on, and this Mortal muſt put on Im<g ref="char:EOLhyphen"/>mortality.</hi> And <hi>Chriſt ſhall change our vile Body,</hi>
+               <note place="margin">Phil. 3.21.</note> 
+               <hi>that it may be faſhioned like unto his Glorious Body.</hi> And then will it be fitted for the neareſt Uni<g ref="char:EOLhyphen"/>on, with a pure, immortal, and glorify'd Soul. And the Body and Soul thus reunited, will be capable of enjoying the higheſt Good.</p>
+            <p>Which is the next thing in order to be enquired into, under this Se<g ref="char:EOLhyphen"/>cond General Head.</p>
+            <p>Queſt. 2. <hi>What then is that</hi> Good, <hi>or that</hi> Bleſſedneſs, <hi>which Believers ſhall enjoy in Heaven?</hi> Why,</p>
+            <p n="1">1. Their Graces ſhall there be perfected, and the Image of God reſtored in them. They have here but ſome ſmall Reſemblances there<g ref="char:EOLhyphen"/>of; but in Heaven they'l be tho<g ref="char:EOLhyphen"/>rowly renewed to it. Their Holi<g ref="char:EOLhyphen"/>neſs, Knowledg, and Love to God,
+<pb n="51" facs="tcp:50794:26"/>will there be perfect and compleat. Their Graces (alas) are now but weak; but then they ſhall be ſtrong. Here they enjoy but a ſmall Mea<g ref="char:EOLhyphen"/>ſure; but there they ſhall enjoy a Fulneſs. They now greatly long, and breath after Holineſs, and after the Knowledg and Love of God; and there they ſhall have their De<g ref="char:EOLhyphen"/>ſires fulfilled.</p>
+            <p>
+               <hi>Chear up then,</hi> Believing, Soul, <hi>who doſt now much bewail thy great Imperfections; and art often</hi> (with Sighs and Groans) <hi>breathing forth ſuch longing Deſires as theſe;</hi> O that I was more Holy, and more truly Gracious! that I knew God better, and could love him more!<note place="margin">Phil. 5.8, —14.</note> O that I could attain to a State of Perfe<g ref="char:EOLhyphen"/>ction! How happy then ſhould I be? <hi>Why, the Time is drawing on a-pace, when thou ſhalt be</hi> Holy,<note place="margin">1 Cor. 13.9,—12. 1 Joh. 3.2, 3.</note> 
+               <hi>as God is</hi> Holy; <hi>and</hi> Know, <hi>as thou art</hi> Known; <hi>and</hi> Love, <hi>as thou art</hi> Be<g ref="char:EOLhyphen"/>loved <hi>of Him.</hi>
+            </p>
+            <p>O Bleſſed Condition indeed! With what raiſed Affections will the Faithful ſerve God, when once
+<pb n="52" facs="tcp:50794:27"/>they arrive to this State of Perfecti<g ref="char:EOLhyphen"/>on? How will they contemplate his incomparable Excellencies? And how joyfully then will they ſing forth his Praiſes?
+<q>They'l never ceaſe to love, and admire, and therefore never ceaſe to praiſe their God. Their Hearts will be there eternally enflamed, and their Mouths eternally opened to glorify him. But with the higheſt Veneration they'l adore his Goodneſs, and ſing aloud of his Mercy.</q>
+               <note place="margin">Pſal. 59.16.</note> 
+               <hi>I will ſing of thy Power, O Lord,</hi> (ſaith David) <hi>yea, I will ſing aloud of thy</hi> Mercy. <hi>And again,</hi> (ſaith he in another Place) <hi>I will ſing of the</hi> Mercies <hi>of the Lord for ever.</hi>
+               <note place="margin">Pſal. 89.1.</note> 'Tis certain that the glorify'd Saints in Heaven, will have ſuch a Senſe of God's Mercy and Love, as ſhall fill their Mouths with Eternal Praiſes.<note place="margin">Ezek. 16.6, 8. Joh. 3.16. chap. 6.44. Jer. 31.3.</note> O how will they admire and adore that Love, that pitied them in their loſt Eſtate, when no Eye pitied them! That Love that provided a Re<g ref="char:EOLhyphen"/>deemer for them, and in time brought them to cloſe with him!
+<pb n="53" facs="tcp:50794:27"/>That Love, that in ſuch an admi<g ref="char:EOLhyphen"/>rable manner conducted them through the World, and ordered all things here below to their Spiri<g ref="char:EOLhyphen"/>tual and Eternal Advantage! Yea, and they'l always be under the Beams of his Love, which will be vigorouſly reflected in their joyful Praiſes. It will there be the higheſt Felicity, to contemplate his moſt excellent Perfections; their great<g ref="char:EOLhyphen"/>eſt Pleaſure to love and pleaſe him; and their higheſt Honour to glorify him.
+<q>They'l there be employed in the nobleſt Work, and excited by the higheſt Mo<g ref="char:EOLhyphen"/>tives.</q>
+            </p>
+            <p>
+               <hi>I will ſpeak of the glorious Ho<g ref="char:EOLhyphen"/>nour of thy Majeſty, and of thy won<g ref="char:EOLhyphen"/>drous Works,</hi> (ſaith David, Pſal. 145.5.) And again, <hi>They ſhall a<g ref="char:EOLhyphen"/>bundantly utter the memory of thy great Goodneſs, and ſhall ſing of thy Righteouſneſs,</hi> Ver. 7. Now if the Saints while here on Earth, do thus love, and praiſe, and adore the Lord; how much more when they come into Heaven?
+<q>Their affecti<g ref="char:EOLhyphen"/>onate Praiſes will there be re<g ref="char:EOLhyphen"/>newed,
+<pb n="54" facs="tcp:50794:28"/>without any let or inter<g ref="char:EOLhyphen"/>miſſion, becauſe the Divine Fa<g ref="char:EOLhyphen"/>vours are there renewed every Moment.</q> O Bleſſed and Glori<g ref="char:EOLhyphen"/>ous Employment indeed! Who would not ſtrive to be thus em<g ref="char:EOLhyphen"/>ployed?</p>
+            <p>
+               <hi>All thy Works ſhall praiſe thee,</hi>
+               <note place="margin">Pſal. 145.10, 11.</note> 
+               <hi>O Lord; and thy Saints ſhall bleſs thee. They ſhall ſpeak of the Glory of thy Kingdom; and talk of thy Power.</hi>
+               <note place="margin">Ver. 13.</note> 
+               <hi>Thy Kingdom is an everlaſt<g ref="char:EOLhyphen"/>ing Kingdom; and thy Dominion en<g ref="char:EOLhyphen"/>dureth throughout all Generations.</hi> O help us to love and praiſe thee now, that we may be more fitted for Eternal Praiſes!</p>
+            <p n="2">2. The glorify'd Saints and An<g ref="char:EOLhyphen"/>gels will be a Believer's everlaſting Companions. And what a bleſſed Society will this be, and how much will it add to our Happineſs? 'Tis comfortable to meet with the Saints of God now, though it be but in a Mourning-Duty: but moſt ſure it is, their Communion there will be quite another thing. For then they'l be perfectly and eternally freed from
+<pb n="55" facs="tcp:50794:28"/>all their Infirmities and Weak<g ref="char:EOLhyphen"/>neſſes.<note place="margin">Heb. 12.23</note> Now alas! their many In<g ref="char:EOLhyphen"/>firmities do much hinder the pleaſure of their Society: but moſt delight<g ref="char:EOLhyphen"/>ful then will their Company be. Here their Affections are flat and low, and they are often dull, and out of frame; but in Heaven it will be otherwiſe. There we ſhall have the moſt raiſed Affections, and ſhall always be in a ſerious Frame. And this will indear us to one ano<g ref="char:EOLhyphen"/>ther, and will make our Commu<g ref="char:EOLhyphen"/>nion moſt pleaſing and delightful.</p>
+            <p>
+               <hi>David</hi> eſteemed the Saints of God the moſt excellent Perſons upon Earth;<note place="margin">Pſal. 16.3. &amp; 119.63. Pſal. 15.4. 1 Joh. 3.14.</note> and declared, that in the Society of them, he took the great<g ref="char:EOLhyphen"/>eſt Delight. And this indeed is the true Character of a Heaven-born Citizen of <hi>Zion;</hi> He is one that greatly loves (and delights in) the Company and Society of the Saints.</p>
+            <p>The Wicked deſire not their Soci<g ref="char:EOLhyphen"/>ety, and ſhall therefore be eternally ſeparated from it; but the Faithful do greatly love and value it, and therefore ſhall eternally enjoy it.</p>
+            <pb n="56" facs="tcp:50794:29"/>
+            <p n="3">3. The Faithful ſhall then ſee the Face, and enjoy the Preſence of their Glorious Redeemer. Joh. 17.24. <hi>Father, I will that they alſo whom thou haſt given me, be with me where I am, that they may behold my Glory which thou haſt given me: for thou lovedſt me before the Foundation of the World.</hi>
+               <note place="margin">Phil. 1.23.</note> The Souls of the Faithful ſhall be with Chriſt, immediately after Death; and both Body and Soul ſhall be with him, at the Gene<g ref="char:EOLhyphen"/>ral Reſurrection.</p>
+            <p>Joh. 14.2, 3. <hi>In my Father's Houſe are many Manſions; if it were not ſo, I would have told you: I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto my ſelf, that where I am, there ye may be alſo.</hi>
+            </p>
+            <p>
+               <q>At Death,<note place="margin">Luk. 16.22.</note> Chriſt ſends his Angels to conduct the Soul to Heaven. But at the general Re<g ref="char:EOLhyphen"/>ſurrection, he will come himſelf in Perſon, and will fetch us thi<g ref="char:EOLhyphen"/>ther in State; which will make our Acceſs to Heaven the more
+<pb n="57" facs="tcp:50794:29"/>glorious. He will then come to lead his Flock to their everlaſt<g ref="char:EOLhyphen"/>ing Fold; to preſent his Bride unto God,<note place="margin">Eph. 5.27.</note> decked and apparelled with Glory. And O what a glorious Sight will it be, to ſee Chriſt and his Followers with Crowns on their Heads! To ſee their triumphant Entrance into thoſe everlaſting Manſions; and the Angels welcoming them with Shouts of Joy! And then to ſee Chriſt on his Throne of Glory, and they themſelves placed round about him; beholding him there with open Face, in his greateſt Splendour and Dignity! What a Soul-enraviſhing Sight will this be?</q>
+            </p>
+            <p>
+               <hi>Happy are thy Men,</hi>
+               <note place="margin">2 Chron. 9.7.</note> 
+               <hi>and happy are theſe thy Servants, which ſtand conti<g ref="char:EOLhyphen"/>nually before thee, and hear thy Wiſ<g ref="char:EOLhyphen"/>dom,</hi> (ſaid the Queen of <hi>Sheba</hi> to King <hi>Solomon.</hi>) But O how much more happy will they be, who ſhall ſtand before Chriſt, and ſee his Glory! Why thus ſhall his Faithful Servants do. Joh. 12.26. <hi>If any Man ſerve me, let him follow
+<pb n="58" facs="tcp:50794:30"/>me; and where I am, there ſhall alſo my Servant be: if any Man ſerve me, him will my Father honour.</hi> It will be an Honour, and Happineſs in<g ref="char:EOLhyphen"/>deed, to be ever in the Preſence of their glorious Redeemer, and there to be glorified with him.</p>
+            <p>What Comfort and Encourage<g ref="char:EOLhyphen"/>ment doth this afford to the Faith<g ref="char:EOLhyphen"/>ful Souldiers of Chriſt?</p>
+            <p>
+               <hi>To him that overcometh, will I grant to ſit with me in my Throne, even as I alſo overcame, and am ſet down with my Father in his Throne.</hi> Rev. 3.21.</p>
+            <p>O how ſhould this animate and encourage us againſt the Spiritual Enemies of our Souls? If we now fight couragiouſly under Chriſt's Banner, we ſhall one Day be crown<g ref="char:EOLhyphen"/>ed with Glory and Honour. And this aſſuredly will make amends for all that we can do, or ſuffer for him. <hi>Moſes</hi> was well aſſured of it; and therefore <hi>eſteemed Re<g ref="char:EOLhyphen"/>proaches for Chriſt,</hi>
+               <note place="margin">Heb. 11.26.</note> 
+               <hi>above all the Treaſures in</hi> Egypt: <hi>for he had re<g ref="char:EOLhyphen"/>ſpect</hi> ('tis ſaid) <hi>unto the recompence of the Reward.</hi> He knew that to be for ever with Chriſt, to behold his
+<pb n="59" facs="tcp:50794:30"/>Glory, and to be glorify'd with him; to ſit on his Throne, and to reign with him,<note place="margin">Rom. 8.18.</note> would beyond compariſon make amends, for all that he could do, or ſuffer for his ſake.</p>
+            <p>
+               <q>Chriſt is now the Deſire of the Saints, and in Heaven he will be their everlaſting Delight. O how will the glorify'd Saints then rejoyce, in the view of the ſurprizing Wonders of his Love! From Everlaſting he loved them; and to Everlaſting they'l love him again. There will no Love be loſt betwixt Chriſt and his Members, when once they get to Heaven: for their Love to him there, will be a correſpon<g ref="char:EOLhyphen"/>dent Affection, according to their utmoſt Capacity. All thoſe Af<g ref="char:EOLhyphen"/>fections that were ſcattered here below, will there be concentred in him for ever. And moſt ſure, he infinitely deſerves their Love; having ranſomed them from the worſt of Miſeries, and purcha<g ref="char:EOLhyphen"/>ſed an everlaſting Inheritance for them; and all this with
+<pb n="60" facs="tcp:50794:31"/>the deareſt Price of his own moſt Precious Blood.</q>
+            </p>
+            <p>O love the Lord, all ye his Saints, who hath loved you at ſo dear a rate; and who will give you yet greater Diſcoveries of his Love, when he takes you into his glorious Preſence.</p>
+            <p n="4">4. The Faithful ſhall then enjoy the cleareſt Senſe of God's Love un<g ref="char:EOLhyphen"/>to them; and ſhall alſo have their Souls enflam'd with the moſt ardent Love to him. And O what Soul-raviſhing Comforts will this afford unto them!</p>
+            <p>There is nothing which doth now more trouble the Saints, than the great coldneſs of their Love to God, and the want of a Senſe of God's Love to them.</p>
+            <p>Pſal. 30.5, 7. — <hi>In his Favour is Life: weeping may endure for a Night, but Joy cometh in the Mor<g ref="char:EOLhyphen"/>ning. Lord, by thy Favour thou haſt made my Mountain to ſtand ſtrong: but thou didſt hide thy Face, and I was troubled.</hi> If God hides his Face
+<pb n="61" facs="tcp:50794:31"/>but never ſo little, and with-holds but the Senſe of his Love from the Saints; how are their Souls over<g ref="char:EOLhyphen"/>whelmed with Trouble? But a Senſe of his Favour,<note place="margin">Pſal. 4.6, 7,</note> and the Light of his Countenance, doth ſoon fill the Soul with enraviſhing Comforts; and make all Troubles vaniſh, and quite diſappear. What unſpeakable Joys and Comforts then will the Souls of the Saints be filled with when they come to enjoy the moſt feeling Senſe of God's deareſt Love unto them?</p>
+            <p n="5">5. They ſhall then enjoy God ful<g ref="char:EOLhyphen"/>ly, and ſhall ſee him Face to Face; and the Beatifical Viſion will be unto them,
+<list>
+                  <item>1. A Transforming</item>
+                  <item>2. A Soul-ſatisfying</item>
+               </list> Viſion, <hi>Pſ.</hi> 17.15.</p>
+            <p n="1">1. It will be unto the Saints a Transforming Viſion. The ſight which we have of the Lord in the Goſpel, transformeth us in ſome meaſure, 2 <hi>Cor.</hi> 3.18. For we all with open Face, beholding as in a
+<pb n="62" facs="tcp:50794:32"/>Glaſs the Glory of the Lord, are changed into the ſame Image, from Glory to Glory, even as by the Spi<g ref="char:EOLhyphen"/>rit of the Lord. If by looking upon the Lord through the Light of the Spirit, we are made like him in ſome meaſure; then ſurely in Glory, when we ſee him Face to Face, we ſhall be more like him. 1 John 3.2. <hi>We know, that when he ſhall appear, we ſhall be like him; for we ſhall ſee him as he is.</hi> The Apoſtle gives this as a Reaſon, why the Saints in Glory ſhall be like the Lord; <hi>becauſe they ſhall ſee him as he is.</hi> To ſee the Lord as he is, will be a transforming Sight. </p>
+            <q>
+               <p n="1">For look as in a Glaſs held up againſt the Sun, hath the Image and Brightneſs of the Sun re<g ref="char:EOLhyphen"/>flected upon it: So the more clearly we behold the Lord of Glory, the more of his Image ſhall we bear upon us. And O what a bleſſed thing will it be, for us poor Creatures to be made like unto the Lord!</p>
+               <p>Now this Likeneſs and Con<g ref="char:EOLhyphen"/>formity makes way for Love;
+<pb n="63" facs="tcp:50794:32"/>and Love makes way for De<g ref="char:EOLhyphen"/>light; and Delight makes way for Fruition: For the more we love God, the more ſhall we delight in him; and the more we delight in God, the more will God delight in us; and will give us the actual Fruition of himſelf, for our higheſt Feli<g ref="char:EOLhyphen"/>city and Bleſſedneſs.</p> 
+            </q>
+            <p n="2">2. Therefore the Beatifical Vi<g ref="char:EOLhyphen"/>ſion will be unto the Saints (as a transforming, ſo alſo) a Soul-ſatiſ<g ref="char:EOLhyphen"/>fying Viſion: For herein the Soul will fully enjoy God. And then will God be unto every Saint an over-flowing Fountain of all Feli<g ref="char:EOLhyphen"/>city.
+<q>Here a Believer's Joy and Comfort admits of increaſe, and decreaſe: but there the Soul will be ſo filled with Joy, that it can receive no more.</q>
+            </p>
+            <p>Pſal. 16.11. <hi>In thy Preſence is ful<g ref="char:EOLhyphen"/>neſs of Joy, and at thy right Hand there are Pleaſures for evermore.</hi>
+            </p>
+            <p>
+               <q>The Fruition of God's imme<g ref="char:EOLhyphen"/>diate Preſence is not like the Joys of the World, which can
+<pb n="64" facs="tcp:50794:33"/>neither fill nor ſatisfy a Man: But in our ſeeing and enjoying him, we ſhall have full content, and compleat Felicity.</q> The ful<g ref="char:EOLhyphen"/>neſs of Joy is ſuſpended till then, that we may deſire (and long for) that Day; and it will be a joyful Day indeed unto every Believing Soul.</p>
+            <p>
+               <hi>Ye now have Sorrow,</hi> (ſaith Chriſt) <hi>but your Heart ſhall rejoyce, and your Joy no Man taketh from you.</hi> John 16.21.</p>
+            <p>Believers (while under deep Troubles here) <hi>do rejoyce in hopes of the Glory of God:</hi>
+               <note place="margin">Rom. 5.2.</note> Yea, their Hearts are ſometimes ſo filled with Joy, as that they can ſcarcely con<g ref="char:EOLhyphen"/>tain themſelves. 1 Pet. 1.8. <hi>Whom having not ſeen, ye love: in whom though now ye ſee him not, yet be<g ref="char:EOLhyphen"/>lieving, ye rejoice with Joy unſpeak<g ref="char:EOLhyphen"/>able, and full of Glory.</hi> Now if the hopes of this bleſſed and glorious Eſtate, breedeth ſuch Joy, what will Fruition do? If a Glimpſe or Taſte be ſo ſweet, what will the full Enjoyment be?</p>
+            <pb n="65" facs="tcp:50794:33"/>
+            <p>Pſal. 17.15. <hi>I ſhall be ſatisfied when I awake with thy Likeneſs.</hi> This is that which will yield the fulleſt Satisfaction to the Soul; to ſee God, and to be like him, and to enjoy him to all Eternity. Oh the greatneſs, the exceeding greatneſs of the Saints Bleſſedneſs in Hea<g ref="char:EOLhyphen"/>ven! There is no Tongue can ex<g ref="char:EOLhyphen"/>preſs it,<note place="margin">1 Cor 2.9.</note> no Heart can conceive it. And in this Bleſſedneſs they ſhall abide for ever.</p>
+            <p>Mat. 25.46. <hi>Theſe ſhall go away into everlaſting Puniſhment: but the Righteous into Life Eternal.</hi>
+            </p>
+            <p>As the Puniſhment of the Wick<g ref="char:EOLhyphen"/>ed, ſo the Happineſs of the Saints, will endure for ever and ever. And the Thoughts of this, will greatly increaſe the Saints Joy, and the Damneds Miſery.</p>
+            <q>
+               <l>
+                  <note place="margin">The Day of Doom, <hi>pag.</hi> 76.</note>Eternity! Eternity!</l>
+               <l>Thou mak'ſt hard Hearts to bleed;</l>
+               <l>The Thoughts of thee in Miſery,</l>
+               <l>Will make Men wail indeed!</l>
+            </q>
+            <p>For the Damned thus to think with themſelves, What, muſt I ne<g ref="char:EOLhyphen"/>ver
+<pb n="66" facs="tcp:50794:34"/>have Eaſe again? Muſt I ne<g ref="char:EOLhyphen"/>ver obtain the leaſt Freedom from theſe racking (Soul-tormenting) Pains? No, <hi>never! never!</hi> O moſt grievous, and inſupportable Miſe<g ref="char:EOLhyphen"/>ries! An <hi>Eternal</hi> Tooth-ach, an <hi>Eternal</hi> Head-ach, an <hi>Eternal</hi> pain of the Stone or Gout, or an <hi>E<g ref="char:EOLhyphen"/>ternal</hi> Burning-Feaver, would be very ſad and grievous. But what (alas!) are all theſe to the <hi>Eternal</hi> Torments of Hell?</p>
+            <p>When any of us are under ſome racking Pains of Body, then the Hopes of a Freedom from ſuch Pains, gives ſome Eaſe and Refreſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But ſuppoſing a Perſon ſhould have ground to fear, that he muſt endure ſome ſuch racking Pains (without the leaſt Eaſe or Inter<g ref="char:EOLhyphen"/>miſſion) for an hundred Years to<g ref="char:EOLhyphen"/>gether, the Thoughts of this would even double his Miſery. How then will the Thoughts of a miſerable Eternity, torment and tear the Hearts of the Damned? This will make them roar out in the Bitterneſs of their Spirits, O
+<pb n="67" facs="tcp:50794:34"/>
+               <hi>miſerable! miſerable! miſerable!</hi> Yea, it will exceedingly heighten their Miſeries to think, that when thou<g ref="char:EOLhyphen"/>ſands, and ten thouſand times ten thouſands of Years are at an end, their Torments and Miſeries will not be ended.</p>
+            <p>But now on the contrary: This is it, which will increaſe and com<g ref="char:EOLhyphen"/>pleat the Happineſs of the Saints in Heaven; to be fully aſſured that it ſhall never have an end: and without this they could never be happy.</p>
+            <p>
+               <hi>As the fore-cited Poet has well ex<g ref="char:EOLhyphen"/>preſſed it.</hi>
+            </p>
+            <q>
+               <l>Eternity! Eternity!<note place="margin">Pag. 74.</note>
+               </l>
+               <l>Oh, were it not for thee,</l>
+               <l>The Saints in Bliſs and Happineſs</l>
+               <l>Could never happy be!</l>
+            </q>
+            <p>If there were the leaſt ground to fear, that their Happineſs would have an end; the Thoughts of this, would put a damp upon their Comforts, and make them even miſerable in the midſt of their
+<pb n="68" facs="tcp:50794:35"/>Enjoyments. But ſo long as the Lord Jefus Chriſt lives, ſo long ſhall their Happineſs laſt; and that ſhall be for ever and ever.</p>
+            <p>John 14.19. <hi>Becauſe I live, ye ſhall live alſo.</hi>
+               <q>He taſted Death for them, and ſwallowed it up in Victory: and thereby <hi>obtain<g ref="char:EOLhyphen"/>ed Eternal Redemption for them,</hi> Heb. 9.12. The Felicity above is durable; it is an abiding Hap<g ref="char:EOLhyphen"/>pineſs. The Lord of Life will uphold the Saints in that bleſſed State for ever.</q> 
+               <hi>I am he that li<g ref="char:EOLhyphen"/>veth, and was dead; and behold I am alive for evermore,</hi> Rev. 1.18. <hi>And becauſe I live,</hi>
+               <note place="margin">Joh. 14.19</note> 
+               <hi>ye ſhall live alſo.</hi> Comfortable Words indeed! </p>
+            <q>
+               <p>The Happineſs of the Saints would be incompleat, if it were not everlaſting: Yea, the leaſt fear of loſing it, would diſturb their peaceful Fruition. For as hope in Miſery allays Sorrow, ſo fear in Happineſs leſſens Joy.</p>
+               <p>The Apprehenſion of loſing ſuch an Happineſs, would cauſe Torment: but the full aſſurance of its Perpetuity, will fill them
+<pb n="69" facs="tcp:50794:35"/>with unexpreſſible Joy.</p>
+            </q>
+            <p> That which will terrify the Damned in Hell, will afford Joy and Comfort to the Saints in Bliſs; and that is the Thoughts of <hi>Eternity.</hi> The Thoughts of this will tranſport the Saints, and will fill them with Songs of Joy and Triumph. O who would not ſtrive, and la<g ref="char:EOLhyphen"/>bour, and pray, for a bleſſed and happy <hi>Eternity?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> And now I come to the Third Particular; <hi>which is to ſhew you up<g ref="char:EOLhyphen"/>on what account, this</hi> Happineſs <hi>is conferr'd on Believers.</hi> And</p>
+            <p n="1">1. Then, it is not conferred up<g ref="char:EOLhyphen"/>on them, on the account of any Worthineſs of theirs; nor do they merit, or deſerve ſuch an Happi<g ref="char:EOLhyphen"/>neſs either in whole or in part. No, though we ſhould ſerve God a thouſand Years, we could not me<g ref="char:EOLhyphen"/>tit to be one Day in Heaven. The Happineſs is too great to be merited by Man, though the Works of the Saints were more perfect: For Finite Things carry no pro<g ref="char:EOLhyphen"/>portion
+<pb n="70" facs="tcp:50794:36"/>to an Infinite and Eternal Happineſs. And beſides, alas, the Works of the beſt are ſo many ways imperfect, that they may rather expect Puniſhment for them, than any <hi>(the leaſt)</hi> Reward. Believers do fight the good Fight of Faith, but they do not merit Heaven thereby; nor is an Immortal Crown of Glory conferred upon them on that account. <hi>It is true,</hi> God will reward their Faithfulneſs; but their Faithfulneſs doth not deſerve that Reward. The Heavenly Happineſs moſt ſure is ſuch, as is not, nor can it be earned by the Saints. But,</p>
+            <p n="2">2. It is partly the free Gift of God, and partly the Purchaſe of Chriſt. <hi>As to any thing therefore that we have done, or can do, it is altogether free.</hi>
+            </p>
+            <p n="1">1. It is freely given us of God, and by him was prepared for us. 'Twas his own Love and moſt Free Grace, that inwardly moved him to do this for us. Luke 12.32. <hi>Fear not, little Flock; for 'tis your
+<pb n="71" facs="tcp:50794:36"/>Father's good Pleaſure to give you the Kingdom.</hi> So 1 Cor. 2.9. <hi>Eye hath not ſeen, nor Ear heard, nei<g ref="char:EOLhyphen"/>ther have entred into the Heart of Man, the Things which God hath</hi> pre<g ref="char:EOLhyphen"/>pared <hi>for them that love him.</hi>
+               <note place="margin">Heb. 11.16 Mat. 20.23</note> And again, Mat. 25.34. <hi>Come, ye Bleſſed of my</hi> Father, <hi>inherit the Kingdom</hi> prepared <hi>for you from the Foundation of the World.</hi> This was the <hi>Prepa<g ref="char:EOLhyphen"/>ration</hi> of God's Decree. He loved his People from the Foundation of the World, ſo as that he decreed to give his only Son for them;<note place="margin">Eph. 1.3,—11. 1 Pet. 1.18, 19, 20. Gal. 4.4, 7</note> that by his precious Blood, and merito<g ref="char:EOLhyphen"/>rious Death, he might purchaſe for them an Everlaſting Inheritance. And in the Fulneſs of Time <hi>(as he had decreed)</hi> he ſent his Beloved Son into the World;<note place="margin">Joh. 3.16.</note> and moſt freely bound himſelf by his Covenant and Promiſe, to confer this Inhe<g ref="char:EOLhyphen"/>ritance upon all true Believers.</p>
+            <p n="2">2. Chriſt by his precious Blood, hath purchaſed this Eternal Inhe<g ref="char:EOLhyphen"/>ritance for us.<note place="margin">1 Pet. 1.19</note> Heb. 9.12, 15. <hi>By his own Blood, he entred once into the Holy Place, having</hi> obtained <hi>Eternal
+<pb n="72" facs="tcp:50794:37"/>Redemption for us. And for this cauſe he is the Mediator of the New Teſta<g ref="char:EOLhyphen"/>ment, that by means of Death, for the Redemption of the Tranſgreſſions that were under the Firſt Teſtament, they which are called, might receive the Pro<g ref="char:EOLhyphen"/>miſe of Eternal Inheritance.</hi> Chriſt having <hi>purchas'd</hi> it by his Death, and God the Father having graci<g ref="char:EOLhyphen"/>ouſly promis'd it; therefore all they that are effectually called, ſhall have it conferred upon them.<note place="margin">Heb. 6.20.</note> For Chriſt is aſcended up into Heaven, to take Poſſeſſion of it in our Name. <hi>I go</hi> (ſaith he) <hi>to prepare a Place for you,</hi>
+               <note place="margin">Heb 10.14 Chap. 9.24 &amp; 7.25.</note> John 14.2. By his Death he purchaſed for us a Right and Title to Heaven; and by his Interceſſion he proſecuteth and applieth that Right. The merit of his Sacrifice pleads for Believers, that the Bleſ<g ref="char:EOLhyphen"/>ſedneſs of Heaven may be conferred upon them.</p>
+            <p>Now as Chriſt has purchaſed Heaven for the Saints, and the Fa<g ref="char:EOLhyphen"/>ther will freely beſtow it upon them; ſo he freely gives them his Holy Spirit, to fit and prepare them
+<pb n="73" facs="tcp:50794:37"/>for the Enjoyment of it. And without this all the reſt would be of none effect. For certainly 'twould not avail us any thing, to have Heaven prepared for us, unleſs we be alſo prepared for Heaven. An unrenewed, unholy Soul, would find little ſatisfaction in that Holy Place, ſuppoſing ſuch might be admitted into it: <hi>But there is no unclean Thing ſhall enter there.</hi>
+               <note place="margin">Rev. 21.27.</note>
+            </p>
+            <p>
+               <q>The Divine Life is no way ſuitable to the Nature of an Un<g ref="char:EOLhyphen"/>regenerate Perſon. Alas! ſuch cannot love God here, nor do him any acceptable Service; but do loath that which he moſt loves, and love that which he abhor<g ref="char:EOLhyphen"/>reth. They are altogether un<g ref="char:EOLhyphen"/>capable of that imperfect Com<g ref="char:EOLhyphen"/>munion with him, which Rege<g ref="char:EOLhyphen"/>rate Perſons do here partake of. How then can they live in that perfect Love of him, Delight in him, and Communion with him,<note place="margin">2 Cor. 6.14</note> which is the Bleſſedneſs of Hea<g ref="char:EOLhyphen"/>ven?</q>
+            </p>
+            <pb n="74" facs="tcp:50794:38"/>
+            <p>It is the Holy Spirit muſt make us <hi>meet</hi> to be Partakers of the Hea<g ref="char:EOLhyphen"/>venly Inheritance.<note place="margin">Col. 1.12.</note> 
+               <hi>Except a Man be born from above, he cannot enter into the Kingdom of Heaven,</hi> Joh. 3.3, 5.</p>
+            <p>It is God (by his Spirit) that draws Sinners unto Chriſt,<note place="margin">Joh. 6.44.</note> and powerfully worketh true Faith in their Souls; giving them thereby a Title to Heaven:<note place="margin">Joh. 1.12, 13.</note> and then by re<g ref="char:EOLhyphen"/>newing and ſanctifying their Na<g ref="char:EOLhyphen"/>tures, doth fit and prepare them for the enjoyment of it. It is certain<g ref="char:EOLhyphen"/>ly therefore of God's Free Grace, that any of us are prepared for Heaven; as well as that Heaven is prepared for us. Epheſ. 2.8. <hi>By Grace ye are ſaved, through Faith, and that not of your ſelves; it is the Gift of God.</hi> Faith <hi>(as well as Sal<g ref="char:EOLhyphen"/>vation)</hi> is God's Free Gift.<note place="margin">Rom. 9.23.</note> Belie<g ref="char:EOLhyphen"/>vers are ſaid to be <hi>Veſſels of Mercy, which God hath aforehand prepared unto Glory.</hi> And again, <hi>He that hath wrought us for the ſelf-ſame Thing is God; who alſo hath given to us the earneſt of the Spirit,</hi> 2 Cor. 5.5. It is not therefore on the account
+<pb n="75" facs="tcp:50794:38"/>of any thing that the Saints have done, or can do, that Heaven is prepared for them, or that they are prepared for Heaven; but all is of Free Grace. Tit. 3.5, 6, 7. <hi>Not by Works of Righteouſneſs which we have done, but according to his Mercy he ſaved us, by the waſhing of Rege<g ref="char:EOLhyphen"/>neration, and renewing of the Holy Ghoſt, which he ſhed on us abundantly, through Jeſus Chriſt our Saviour. That being juſtified by his Grace, we ſhould be made Heirs, according to the hope of Eternal Life.</hi>
+            </p>
+            <p>
+               <hi>Objection.</hi>
+            </p>
+            <p>But doth not God command us <hi>to work out our own Salvation;</hi> and promiſe <hi>to reward us according to our Works?</hi> Phil. 2.12. Mat. 16.27. Rev. 22.12. chap. 20.12.</p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Yes, he doth ſo: But yet theſe Scriptures do no ways imply, that the beſt of our Works are merito<g ref="char:EOLhyphen"/>rious.</p>
+            <pb n="76" facs="tcp:50794:39"/>
+            <p>And as to the Firſt, where we are commanded to work out our own Salvation; it preſently fol<g ref="char:EOLhyphen"/>lows, <hi>that it's God which works in us, both to will and to do of his good Pleaſure,</hi> Phil. 2.13.</p>
+            <p>We muſt indeed be diligent, and ſerious in the Work and Service of the Lord; and muſt yield ſin<g ref="char:EOLhyphen"/>cere and conſtant Obedience to all his Holy Commands; ſtriving to put forth that Power to the ut<g ref="char:EOLhyphen"/>moſt, that he hath already given us; and muſt wait upon him in the uſe of means, that we may obtain more.</p>
+            <p>And without thus doing, we can<g ref="char:EOLhyphen"/>not be ſaved;<note place="margin">Heb. 5.9.</note> neither <hi>for</hi> thus do<g ref="char:EOLhyphen"/>ing ſhall any be ſaved. There is a great difference, between our be<g ref="char:EOLhyphen"/>ing rewarded <hi>[according]</hi> to our Works, and our being rewarded <hi>[for]</hi> our good Works.
+'Tis true, there are none can obtain Heaven without Regeneration and Holi<g ref="char:EOLhyphen"/>neſs:<note place="margin">Joh. 3.3. Heb. 12.14.</note> And 'tis alſo as true, that none ſhall obtain it <hi>upon the account</hi> of their Holineſs. Good Works are therefore neceſſary to Salvation,
+<pb n="77" facs="tcp:50794:39"/>but they are not meritorious. No, <hi>if we could do all thoſe Things which are commanded us, we muſt ſay,</hi>
+               <note place="margin">Luk. 17.10.</note> 
+               <hi>we are unprofitable Servants.</hi>
+            </p>
+            <p n="1">1. Becauſe we ſhall have done no more, than <hi>what was our Duty to do,</hi> Luke 17.10. We are many ways bound to obey God's Com<g ref="char:EOLhyphen"/>mands, though the Heavenly Hap<g ref="char:EOLhyphen"/>pineſs had never been promiſed. God has an abſolute Right to all that we are, or have, or can do.</p>
+            <p>
+               <hi>Firſt,</hi> By Creation,<note place="margin">Prov. 16.4.</note> and as he is the Supream Soveraign of the World.</p>
+            <p>
+               <hi>Secondly,</hi> By Preſervation,<note place="margin">Lev. 22.31 Act. 17.24, 28.</note> or as he is our Maintainer, and Uphol<g ref="char:EOLhyphen"/>der; on whoſe Goodneſs and Boun<g ref="char:EOLhyphen"/>ty we daily live.</p>
+            <p>
+               <hi>Thirdly,</hi> By Redemption,<note place="margin">1 Cor. 6.19, 20. 2 Cor. 5.15.</note> he ha<g ref="char:EOLhyphen"/>ving laid down a Price of ineſti<g ref="char:EOLhyphen"/>mable value for us.</p>
+            <p>Now on all theſe accounts, the beſt that we can do is abſolutely
+<pb n="78" facs="tcp:50794:40"/>due unto God. And a Servant that hath done no more than his Duty, yea, that cometh very far ſhort of his Duty, can plead nothing of Merit.</p>
+            <p n="2">2. Becauſe the beſt of our Works can add nothing at all unto God. Pſal. 16.2. <hi>Thou art my Lord</hi> (ſaith <hi>David</hi>) <hi>my Goodneſs extendeth not to thee.</hi> So Job 22.2. <hi>Can a Man be profitable unto God, as he that is wiſe may be profitable unto himſelf? If thou be Righteous, what giveſt thou him? or what receiveth he of thine Hands?</hi> Chap. 35.7, 8. The more we abound in Works of Righteouſ<g ref="char:EOLhyphen"/>neſs, the better it will be for our ſelves: But no Profit or Advan<g ref="char:EOLhyphen"/>tage will accrue unto God, by any thing that we can do. And there<g ref="char:EOLhyphen"/>fore we can merit nothing at his Hands.</p>
+            <p n="3">3. Becauſe <hi>It is God that works in us,</hi>
+               <note place="margin">Eph. 2.10. Luk. 19.16, 18.</note> 
+               <hi>both to will and to do of his good Pleaſure.</hi> Phil. 2.13. <hi>By the Grace of God we are what we are,</hi> as to any Good that is in us: <hi>and by
+<pb n="79" facs="tcp:50794:40"/>his Grace it is that we do what we do,</hi>
+               <note place="margin">2 Cor. 3.5.</note> as to any Good that is done by us. 1 Cor. 15.10.<note place="margin">Heb. 13.20, 21.</note> 
+               <hi>I can do all Things</hi> (ſaith the Apoſtle) but how? <hi>why, through Chriſt which ſtrengthneth me,</hi> Phil. 4.13. Yea, and <hi>without me</hi> (ſaith Chriſt) <hi>ye can do nothing,</hi> John 15.5. <hi>i. e.</hi> Nothing in a way of Fruitfulneſs: Yea, further, no<g ref="char:EOLhyphen"/>thing that is truly good and accep<g ref="char:EOLhyphen"/>table in the Sight of God.</p>
+            <p>Now can we do nothing that is truly Good, but what would have been our Duty to do, though no Reward had been promiſed? Can we do nothing that is any ways profitable or advantageous to God? Yea, Can we do nothing that he will accept of, but what we do by the help of his Grace? Then ſure<g ref="char:EOLhyphen"/>ly when we ſhall have done our beſt, we may ſay, we are unprofitable Servants. Nay, I may further add, that the beſt Works of the Saints are ſo full of Imperfections, that they rather need a Pardon, than deſerve the leaſt Reward.</p>
+            <pb n="80" facs="tcp:50794:41"/>
+            <p>It is not therefore upon the ac<g ref="char:EOLhyphen"/>count of any good Works which the Saints have done, that the Hea<g ref="char:EOLhyphen"/>venly Glory is conferred upon them;<note place="margin">Rom 6.23. Heb. 9.12, 15.</note> but it is freely given unto them of God, Chriſt having by his Death obtained it for them.</p>
+            <p>We muſt therefore take heed (as we love our own Souls) of thinking to merit Heaven by our Works.<note place="margin">Rom. 9.30,—33. Chap. 10. 1, 2, 3.</note> It's a Popiſh Principle; yea, and that indeed which all Men naturally are inclined to. And for certain it is a moſt dangerous Principle, and has been the undoing of many.</p>
+            <p>A Saving Faith will produce good Works,<note place="margin">Jam. 2.26.</note> as the genuine Effects and Fruits of it. Such Perſons therefore as are deſtitute thereof,<note place="margin">1 Joh. 3.3.</note> can have no ground to hope for Salvation. We muſt preſs after Holineſs with all our Might,<note place="margin">2 Cor. 7.1.</note> and endeavour to be Fruitful in every good Work: but yet we muſt beware, that we do not think of meriting Heaven there<g ref="char:EOLhyphen"/>by.</p>
+            <pb n="81" facs="tcp:50794:41"/>
+            <p>We may indeed aſſure our ſelves,<note place="margin">Rev. 22.12 1 Cor. 15.58.</note> and that upon good Grounds; that in doing well, we ſhall fare well: for ſo hath God promiſed for our Encouragement. Iſa. 3.10, 11. <hi>Say ye to the Righteous, that it ſhall be well with him: for they ſhall eat the Fruit of their doing. But wo unto the Wicked, it ſhall be ill with him: for the Reward of his Hands ſhall be given him.</hi> 'Tis not ſaid of the Righte<g ref="char:EOLhyphen"/>ous, that they ſhall have what they have earned; but they ſhall eat the Fruit of their doings; <hi>i. e.</hi> They have done well, and they ſhall fare well. But now as to the Wicked, they ſhall have their due deſert; the Reward of his Hands ſhall be given him. <hi>Death is the juſt Wages of Sin:</hi>
+               <note place="margin">Rom. 6.23.</note> 
+               <hi>but Eternal Life is God's Free Gift, through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>And now I come to apply the Doctrine, and what hath been ſpo<g ref="char:EOLhyphen"/>ken from it.</p>
+            <div n="1" type="application">
+               <pb n="82" facs="tcp:50794:42"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe <hi>I.</hi>
+               </head>
+               <argument>
+                  <p> And the Firſt <g ref="char:V">Ʋ</g>ſe may be for our Information, in theſe two or three Par<g ref="char:EOLhyphen"/>ticulars.</p>
+               </argument>
+               <p>As, 1. We may ſee how vaſtly different the State of Believers and Unbelievers will be, when they come to die. God deals with them now in a different manner, but then the Difference will be moſt apparent. See Iſa. 65.13, 14. <hi>Be<g ref="char:EOLhyphen"/>hold,</hi> (ſaith the Lord) <hi>my Servants ſhall eat, but ye ſhall be hungry: be<g ref="char:EOLhyphen"/>hold, my Servants ſhall drink, but ye ſhall be thirſty: behold, my Servants ſhall rejoice, but ye ſhall be aſhamed: Behold, my Servants ſhall ſing for Joy of Heart, but ye ſhall cry for Sorrow of Heart, and ſhall howl for Vexation of Spirit.</hi> Now if God deals thus differently with the Righteous and the Wicked, even here in this World, (as he oftentimes doth) how much more in the World to come? 'Tis true, the Wicked are often exempted from thoſe Suffer<g ref="char:EOLhyphen"/>ings
+<pb n="83" facs="tcp:50794:42"/>which the Righteous do meet with in the World; and hereupon (for want of a right Senſe of Things) do conclude, that themſelves are the happier Perſons. But Death will make them of another Mind; and ſhew them the Folly of their Self-flattering Conceits: For then ſhall Believers immediately go to God, and Unbelievers ſhall go to the De<g ref="char:EOLhyphen"/>vil; the one paſs into Eternal Glory, and the other into Miſery and ever<g ref="char:EOLhyphen"/>laſting Puniſhment.</p>
+               <p>They have now (while they are here) very different Natures, and hereafter they ſhall have as different Rewards. The Righteous Man <hi>hath his worſt things here,</hi>
+                  <note place="margin">Luk. 16.25.</note> and his <hi>beſt</hi> he ſhall have <hi>hereafter.</hi>
+                  <note place="margin">Iſa. 3.10, 11.</note> And the Wick<g ref="char:EOLhyphen"/>ed (on the contrary) <hi>hath his beſt Things here,</hi> and his <hi>worſt</hi> he ſhall have <hi>hereafter.</hi> The Concluſion will aſſuredly be dreadful to <hi>theſe,</hi> but exceeding comfortable to the <hi>Righ<g ref="char:EOLhyphen"/>teous;</hi> for everlaſting Miſery will be the Portion of the one, and ever<g ref="char:EOLhyphen"/>laſting Happineſs the Portion of the other. Eternity is affixed to both:
+<pb n="84" facs="tcp:50794:43"/>Mat. 25.46. <hi>Theſe ſhall go away into everlaſting Puniſhment: but the Righ<g ref="char:EOLhyphen"/>teous into Life Eternal.</hi> The Happineſs of the Saints will endure for ever, and ſo will the Miſeries of the Damned; yea, when thouſands and thouſands of Years are at an end, they will both be as freſh as at the very firſt Moment.</p>
+               <p>O how great is that Happineſs which the Damned will loſe? and how great are thoſe Miſeries which the Saints will eſcape? How great are the Torments which the Dam<g ref="char:EOLhyphen"/>ned ſhall endure? and how great are the Joys of which the Saints ſhall partake?</p>
+               <p>Perhaps now, Sirs, you ſee little difference between the State to Be<g ref="char:EOLhyphen"/>lievers and of Unbelievers, but the Time will certainly (yea and ſhortly) come, when you ſhall ſee Things in another manner.</p>
+               <p>Now it may be, <hi>ye account the proud happy, and think there's little profit in ſerving the Lord: but then ſhall ye
+<pb n="85" facs="tcp:50794:43"/>diſcern between the Righteous and the Wicked, between him that ſerveth God, and him that ſerveth him not.</hi> Mal. 3.14,—18.</p>
+               <p n="2">2. From what hath been ſaid, we may ſee God's wonderful Love to Believers, in preparing for them ſuch a glorious Inheritance, and ſo freely conferring it on them.</p>
+               <p>What a Miracle of Mercy and Loving-Kindneſs is this,<note place="margin">1 Joh. 3.1, 2.</note> (and even that which might fill us with Ad<g ref="char:EOLhyphen"/>miration) that the infinitely Bleſſed and Glorious God ſhould take no<g ref="char:EOLhyphen"/>tice of ſuch Wretches as we? O wonderful Love indeed! that ſuch Rebels and Traitors (as we have been) ſhould have admittance into his glorious Preſence, and be made Companions of the Holy Angels! That ſuch Clods of Earth, ſuch de<g ref="char:EOLhyphen"/>ſpicable Worms, ſhould be lifted up to the higheſt Heaven;<note place="margin">Mat. 13.43</note> that we might ſhine as Stars there, yea, as the Sun in the Kingdom of our Fa<g ref="char:EOLhyphen"/>ther! And that this bleſſed State ſhould be ſo freely provided, and
+<pb n="16" facs="tcp:50794:44"/>we taken into it on ſuch gracious Terms. Admirable Love indeed! The Terms are Faith, and not Me<g ref="char:EOLhyphen"/>rit, which the Gracious God doth ſtand upon. That's the Tenor of the New Covenant, <hi>Believe,</hi> and <hi>live,</hi> not <hi>do,</hi> and <hi>live.</hi> Good Works are an Evidence of the Truth of our Faith, and of our Intereſt in that Bleſſedneſs; but they do not any way merit or deſerve it, either in whole or in part. No, but it's <hi>freely given</hi> to thoſe that <hi>believe.</hi> John 3.36. <hi>He that believeth on the Son of God, hath everlaſting Life.</hi> He hath it as ſure as if he was in actual Poſſeſſion of it. The Gracious God will ex<g ref="char:EOLhyphen"/>clude none but ſuch as exclude themſelves by their Unbelief. Yea, ſo merciful is he unto poor loſt Sin<g ref="char:EOLhyphen"/>ners, that he ſends his Ambaſſadors up and down the World, to offer Salvation unto them,<note place="margin">2 Cor. 5.20</note> and to pray and beſeech them in the Name of Chriſt to accept thereof, on the moſt equitable Terms. Nothing doth the Lord require but this, that Sinners lay down their Rebellious Arms, and be reconciled unto him;
+<pb n="87" facs="tcp:50794:44"/>that they accept of Chriſt for their Lord and Soveraign, and be true to his Cauſe and Intereſt for the future. O wonderful condeſcending Love! How ſhould we admire it! That the infinite Majeſty of Heaven and Earth, ſhould beſeech vile Rebels to be reconciled to him!<note place="margin">Job 4.9. Pſ. 18.13,—15. Mat. 10.28</note> when as he is able to daſh them in pieces, and even throw them into Hell with one Blaſt of his Mouth! Should we cry Day and Night unto God to be re<g ref="char:EOLhyphen"/>concil'd unto us, there would be no<g ref="char:EOLhyphen"/>thing of wonder in it; but that the offended God ſhould beſeech Offen<g ref="char:EOLhyphen"/>ders to lay by their Enmity, and be at Peace with him; ſure this is mat<g ref="char:EOLhyphen"/>ter of Wonder and Aſtoniſhment! And yet how (alas) is his great Love abuſed, and his rich Offers ſlighted and diſregarded by the moſt? As if the offered Salvation was meerly fictitious, or the Hea<g ref="char:EOLhyphen"/>venly Happineſs were not worth the accepting? O baſe Ingratitude and aſtoniſhing Madneſs, to ſlight and neglect ſo great Salvation!</p>
+               <pb n="88" facs="tcp:50794:45"/>
+               <p n="3">3. From what hath been ſaid, we may ſee the great Folly of Men in refuſing ſuch an Happineſs.<note place="margin">Prov. 1.22,—33.</note> What is it but Happineſs that all Men ſeek after? And for this they run, they labour and toil; and yet the moſt (alas, like the Dog in the Fable) while they catch at the Shadow, do loſe the Subſtance. How eager are Men in purſuit of that which they imagine will make them happy? And what Coſt and Pains will the moſt be at, for the obtaining a little of the World's Felicity? Whenas all world<g ref="char:EOLhyphen"/>ly Pleaſures, Riches and Honours, cannot poſſibly ſatisfy the Mind of Man: As one has in Metre well ex<g ref="char:EOLhyphen"/>preſſed it.</p>
+               <q>
+                  <l>All Earthly Things Man's cravings anſwer not,</l>
+                  <l>Whoſe little Heart would all the World contain,</l>
+                  <l>(If all the World ſhould fall to one Man's Lot)</l>
+                  <l>And notwithſtanding empty ſtill remain.</l>
+               </q>
+               <pb n="89" facs="tcp:50794:45"/>
+               <p>And ſuppoſing theſe Things could yield ſome Satisfaction,<note place="margin">Job 14.1, 2 Pſal. 49.10,—13. Luk. 12.16,—21. Prov. 8.18, —21.</note> yet how ſoon muſt we take our eternal leave of them? Yet a little while, and all theſe Things will be unto us as if they had never been. But the Happineſs above is ſubſtantial, and 'tis an abiding Happineſs. What Folly and Madneſs is it then to pre<g ref="char:EOLhyphen"/>fer Toys and Trifles before ſuch an Happineſs?
+<q>What powerful Charm is it that obſtructs our true judging of Things? What Spirit of Errour hath poſſeſſed us? Can there poſſibly be a deſire in Man of enjoying an Happineſs beyond what is Eternal, yea, and Soul-ſatisfying and Infinite? O the wonderful Stupidity and Sot<g ref="char:EOLhyphen"/>tiſhneſs of Men, ſo careleſs of Everlaſting Felicity!</q> Eternal Things (alas) are quite out of ſight,<note place="margin">1 Cor. 2.12, 14.</note> and therefore are they ſlight<g ref="char:EOLhyphen"/>ed by the unbelieving World. And they look upon thoſe who live by Faith, as the verieſt Fools imagi<g ref="char:EOLhyphen"/>nable; when they ſee them <hi>preſſing on towards the Mark,</hi>
+                  <note place="margin">Phil. 3.14.</note> 
+                  <hi>for the Prize that is ſet before them,</hi> and expoſing
+<pb n="90" facs="tcp:50794:46"/>themſelves unto Sufferings for Chriſt,<note place="margin">Heb. 10.32,—34. chap. 11. 24,—26.</note> and in hopes of the promiſed Glory.</p>
+               <p>But we muſt <hi>become Fools in the World's eſteem,</hi>
+                  <note place="margin">1 Cor. 3.18.</note> 
+                  <hi>if we will become wiſe to Salvation.</hi> And within a while ſhall the Wicked perceive whether Believers or themſelves were the greater Fools.</p>
+               <p>
+                  <hi>As the Author of that Apocryphal Book which is called</hi> the Wiſdom of Solomon,<note place="margin">Wiſd. ch. 5</note> 
+                  <hi>hath well expreſſed it,</hi> ſaying,</p>
+               <q>
+                  <p>Then ſhall the Righteous Man ſtand in great boldneſs, before the Face of ſuch as have afflicted him, and made no account of his Labours. When they ſee it, they ſhall be troubled with terrible Fear, and ſhall be amazed at the ſtrangeneſs of his Salvation, ſo far beyond all that they looked for. And they repenting and groaning for anguiſh of Spirit, ſhall ſay within themſelves, This was he whom we had ſometimes in Deriſion, and a Proverb of Reproach. <hi>WE FOOLS</hi> accoun<g ref="char:EOLhyphen"/>ted
+<pb n="91" facs="tcp:50794:46"/>his Life Madneſs, and his End to be without Honour. But how is he numbred among the Children of God, and his Lot is among the Saints? Therefore have we erred from the way of Truth; and the Light of Righte<g ref="char:EOLhyphen"/>ouſneſs hath not ſhined unto us, and the Sun of Righteouſneſs roſe not upon us.<note place="margin">Jer. 9.5.</note> We wearied our ſelves in the way of Wicked<g ref="char:EOLhyphen"/>neſs and Deſtruction; but as for the way of the Lord, we have not known it. What hath Pride profited us?<note place="margin">1 Joh. 2.17</note> Or what good hath Riches with our vaunt<g ref="char:EOLhyphen"/>ing brought us? All thoſe Things are paſſed away like a Shadow, and as a Poſt that haſted by.</p>
+                  <p>— But the Righteous live for evermore, their Reward alſo is with the Lord:<note place="margin">Jam. 1.12.</note> —Therefore ſhall they receive a Glorious King<g ref="char:EOLhyphen"/>dom, and a beautiful Crown from the Lord's Hand.</p>
+               </q>
+            </div>
+            <div n="2" type="application">
+               <pb n="92" facs="tcp:50794:47"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe <hi>II.</hi>
+               </head>
+               <argument>
+                  <p> For Excitation. A Second <g ref="char:V">Ʋ</g>ſe may be for the ſtir<g ref="char:EOLhyphen"/>ring us up to uſe our utmoſt Care and Diligence, for the getting and ex<g ref="char:EOLhyphen"/>erciſing a lively Faith, in order to our obtaining the Heavenly Bleſſed<g ref="char:EOLhyphen"/>neſs. <hi>And,</hi>
+                  </p>
+               </argument>
+               <p n="1">1. Let me turn my Diſcourſe un<g ref="char:EOLhyphen"/>to thoſe that are yet in a State of Impenitency. Sure what hath been ſpoken, ſhould excite all ſuch to lay hold on the Hope that is ſet before them; and to ſtrive and labour with all their Might, to make ſure of an Intereſt in Jeſus Chriſt: for without this we muſt never hope to partake of Eternal Bleſſedneſs. <hi>He that believeth not, ſhall not ſee Life; but the Wrath of God abideth on him,</hi> Joh. 3.36. O what ſhould we ſtrive and labour for, if not for Eternal Happineſs? And what ſhould we ſtrive to eſcape,<note place="margin">Mat. 3.7.</note> and flee from, if not from the Wrath to come? Why, Faith and Repentance are abſolutely neceſſary, both for
+<pb n="93" facs="tcp:50794:47"/>obtaining the one and eſcaping the other. <hi>He that believeth not,</hi>
+                  <note place="margin">Mar. 16.16 Luk. 13.3,—5.</note> 
+                  <hi>ſhall be damned</hi> (ſaith Chriſt.) <hi>And except ye repent, ye ſhall all periſh.</hi> Well, what is it then that you are now reſolved for? And what are the chief Deſires of your Souls? Are you for Everlaſting Glory, or for the Pleaſures of Sin for a Seaſon?</p>
+               <p>Are you for accepting of Chriſt for your Soveraign;<note place="margin">Joh. 8.34. 2 Tim. 2.26. 2 Pet. 2.19</note> or for conti<g ref="char:EOLhyphen"/>nuing ſtill to be the Servants of Sin? Are you for ſighting the good Fight of Faith; or for being the captivated Slaves of the Devil? What is it you reſolve upon? for one of theſe muſt be your Choice. Are your Deſires after God and Heaven? Or can that be your Bleſſedneſs which you do not deſire? De<g ref="char:EOLhyphen"/>ceive not your ſelves (I beſeech you) with vain Conceits, but conſider theſe Things, and ſhew your ſelves Men. Do you think that God will ever receive any ſuch into his bleſſed and glorious Preſence as are not at all deſirous of it, or unto whom it ſhall be a Burden? No, no, God ſets not ſo ſmall a value upon it,
+<pb n="94" facs="tcp:50794:48"/>as to force it upon thoſe that deſire it not.</p>
+               <q>Miſtake not then the Notion of Heaven,<note place="margin">Pſa. 17.15. See Mr. <hi>How</hi>'s Bleſ<g ref="char:EOLhyphen"/>ſedneſs of the Righ<g ref="char:EOLhyphen"/>teous. Pſal. 63.1,—8. Pſal. 73.24,—28.</note> or the Nature of a Soul<g ref="char:EOLhyphen"/>ſatisfying Bleſſedneſs. Do not you render it unto your ſelves a Compoſition of Senſual Enjoy<g ref="char:EOLhyphen"/>ments; but look upon it, as chiefly conſiſting in perfect Holi<g ref="char:EOLhyphen"/>neſs and Communion with God. And then you cannot judge of your own Right to it, by a ſurer Rule than this, that the Bleſſed<g ref="char:EOLhyphen"/>neſs of Heaven ſhall be certainly theirs, whoſe Hearts are bent and directed towards it. <hi>Mat.</hi> 5.6, 8. <hi>Heb.</hi> 12.14. <hi>Phil.</hi> 3.8,—14.</q>
+               <p>Repent therefore, and believe the Goſpel, and ſleep not in the Bonds of Iniquity.<note place="margin">Iſa. 55.1, 2. Joh. 3.16. Ez. 33.11.</note> You are earneſtly call'd and invited to come and ac<g ref="char:EOLhyphen"/>cept of Eternal Happineſs; and the Lord is pleas'd to expoſtulate with you, ſaying, Sinners, <hi>Why will ye die?</hi>
+               </p>
+               <pb n="95" facs="tcp:50794:48"/>
+               <p>Conſider how dreadful your Con<g ref="char:EOLhyphen"/>dition will be, if Death ſhould find you in your Unbelief.<note place="margin">Joh. 3.19.</note> It had been better for you never to have heard of a Saviour, than to live and die without an Intereſt in him. O! what will you have to ſay for your ſelves, when Chriſt as your Judge ſhall plead the Caſe with you? And ſay, Sinners,<note place="margin">Prov. 1.24,—31.</note> I ſentence you to Hell and Damnation; for this is the fruit of your own fool<g ref="char:EOLhyphen"/>iſh Choice: No Invitations, Per<g ref="char:EOLhyphen"/>ſwaſions or Warnings could keep you from running into it. I offer<g ref="char:EOLhyphen"/>ed unto you Eternal Happineſs, but you did not regard either Me, or my Offers.<note place="margin">Job 21.14, 15.</note>
+                  <q>You could love the moſt vain and fooliſh Tri<g ref="char:EOLhyphen"/>fles, but you loved not Me, nor cared for my Preſence.<note place="margin">Pſal. 10.4.</note> You had Thoughts enough and to ſpare for vain Things, but how ſeldom did you think of Me, be<g ref="char:EOLhyphen"/>cauſe your Hearts were not with Me. I baniſh you therefore that Preſence which you never loved; I deny you that Viſion which
+<pb n="96" facs="tcp:50794:49"/>you did always ſhun,<note place="margin">Joh. 3.19, 20.</note> and the Impreſſions of my Likeneſs which you did ever hate. I eternally abandon you to the groſſeſt Darkneſs, ſeeing Darkneſs was ſo grateful to you.</q> Depart from Me,<note place="margin">Luk. 13.27, 28.</note> and from the Happineſs you ſlighted, into endleſs and eaſeleſs Miſeries and Torments.</p>
+               <p>O! what will impenitent Sinners have to ſay when the Righteous Judge ſhall plead the Caſe with them, and ſhall paſs the irrevo<g ref="char:EOLhyphen"/>cable Sentence upon them? All Mouths (aſſuredly) will then be ſtopped, and their Conſcience will tell them that the Sentence is juſt. Think of this therefore,<note place="margin">Heb. 3.15, 18.</note> and con<g ref="char:EOLhyphen"/>ſider it ſeriouſly, while a Door of Hope is yet open unto you. And if the Heavenly Happineſs will not invite you,<note place="margin">2 Cor. 5.11.</note> let the Terrours of Hell affright you from your Sins. For it's certain, if you ſlight the Glory that's offered, you will bring up<g ref="char:EOLhyphen"/>on your ſelves Everlaſting Confu<g ref="char:EOLhyphen"/>ſion.</p>
+               <pb n="97" facs="tcp:50794:49"/>
+               <p>
+                  <hi>Flee therefore unto Chriſt as your only Refuge,</hi>
+                  <note place="margin">Joſh. 20. <hi>with</hi> Heb. 6.18.</note> 
+                  <hi>that he may deliver you from avenging</hi> Juſtice, <hi>and from the wrathful Diſpleaſure of a provoked God.</hi> Pſal. 2.12.</p>
+               <p>And O! let him not ſtill have freſh cauſe to complain,<note place="margin">Joh. 5.40.</note> 
+                  <hi>Ye will not come to me, that ye might have Life.</hi>
+               </p>
+               <p n="2">2. It ſhould alſo excite Believers to greater Diligence in the Service of God.<note place="margin">2 Pet. 1.5,—11.</note> 
+                  <hi>For ſo an entrance ſhall be miniſtred unto us, into the everlaſting Kingdom of our Lord Jeſus Chriſt.</hi> If the Hopes and Fore thoughts of the Happineſs above, will not ex<g ref="char:EOLhyphen"/>cite and quicken us to our Duty, what will?</p>
+               <p>Let us then be convinced that there is ſuch an Happineſs; and when we believe, let us look for it, and long for it, and live in the hopeful expectation of it.</p>
+               <p>
+                  <hi>Looking for that Bleſſed Hope, and the Glorious Appearing of the Great
+<pb n="98" facs="tcp:50794:50"/>God,</hi>
+                  <note place="margin">1 Pet. 1.13</note> Tit. 2.13, 14. Now this Hope ſhould put us upon ſerious Diligence, and earneſt Purſuit after ſuch a Bleſſedneſs.<note place="margin">Phil. 3.20.</note> Let us therefore endeavour to live Heavenly Lives, as we hope to partake of the Hea<g ref="char:EOLhyphen"/>venly Bleſſedneſs.
+<q>There is no<g ref="char:EOLhyphen"/>thing ſhould influence our Hearts below, but that which doth ſuit Chriſt's Heart above.<note place="margin">1 Joh. 3.2.</note> All muſt be like the Lord, that are to live with him.</q> And if we do hope to be like him hereafter, then ſure we ſhould ſtrive to reſemble him here.<note place="margin">Ver. 3.</note> Yea, <hi>And every Man</hi> (ſaith the Apoſtle) <hi>that hath this Hope in him, purifieth himſelf, even as he is pure,</hi> i. e. as Chriſt is pure. Yea, certain it is, if we do not deſire further degrees of Holineſs, we cannot be ſaid to deſire Heaven; for Heaven is the perſection of Ho<g ref="char:EOLhyphen"/>lineſs. A lively Hope therefore of our Conformity to Chriſt, in Glory and Bleſſedneſs hereafter, will aſſu<g ref="char:EOLhyphen"/>redly put us upon a vigorous purſuit of Conformity to him in Holineſs here. O! were but our Hopes more ſtrong and lively, they would give
+<pb n="99" facs="tcp:50794:50"/>us a Taſte of the Bleſſedneſs a<g ref="char:EOLhyphen"/>bove; and this Taſte would ſet us upon earneſt longing after the En<g ref="char:EOLhyphen"/>joyment of it.<note place="margin">Rom. 5.2. Chap. 8.19, 23.</note>
+               </p>
+               <p n="2">2 Cor. 5.2. <hi>For in this we groan earneſtly, deſiring to be clothed upon with our Houſe which is from Heaven.</hi>
+               </p>
+               <p>So ver. 8. <hi>We are willing rather to be abſent from the Body, and to be pre<g ref="char:EOLhyphen"/>ſent with the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Wherefore we labour, that whether preſent or abſent, we may be accepted of him,</hi> ver. 9.</p>
+               <p>Let us labour then,<note place="margin">Heb. 11.1.</note> by a lively Faith, to realize the Happineſs of Heaven to our Souls; as alſo to get a well-grounded Hope of our Intereſt in this Happineſs: That ſo our moſt frequent and ſerious Thoughts, and delightful Medita<g ref="char:EOLhyphen"/>tions may be of it. For 'tis im<g ref="char:EOLhyphen"/>poſſible a Man can hope for any Thing, but he will be thinking of it. And the more we think of the Happineſs Above, the more we
+<pb n="100" facs="tcp:50794:51"/>ſhall long for it. And where there are longing Deſires and Breathings after the Enjoyment of ſuch an Happineſs,<note place="margin">Heb. 4.1.</note> there will alſo be a heed<g ref="char:EOLhyphen"/>ful and cautelous Fear, leſt we ſhould miſcarry, or fall ſhort of it; and this accompanied with a dili<g ref="char:EOLhyphen"/>gent Care and moſt earneſt Endea<g ref="char:EOLhyphen"/>vour to make ſure.<note place="margin">1 Cor. 9. 24,—27.</note>
+               </p>
+               <p>Well then,<note place="margin">Phil. 3. 10,—14. Ver. 17, 20 Mat. 11.12 Rom. 8.25. Heb. 10.32, — 36.</note> Let us make it ap<g ref="char:EOLhyphen"/>pear, that our Faith is true, and our Hopes lively, by a more Holy Activity, Vigour, and Diligence in the Ways and Service of God. 1 <hi>Tim.</hi> 6.12. And let us wait with Patience for the expected Happi<g ref="char:EOLhyphen"/>neſs, againſt all Oppoſitions and Diſcouragements; <hi>For in due ſeaſon we ſhall reap, if we faint not.</hi> Gal. 6.9.</p>
+               <p>I ſhall conclude this Uſe, with the Apoſtle's Exhortation, 1 Cor. 15.58. <hi>Therefore, my Beloved Brethren, be ye ſtedfaſt, unmoveable, always abounding in the Work of the Lord, foraſmuch as you know that your Labour is not in vain in the Lord.</hi> Now,</p>
+            </div>
+            <div n="3" type="application">
+               <pb n="101" facs="tcp:50794:51"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe <hi>III.</hi>
+               </head>
+               <argument>
+                  <p> For Conſolation. The Laſt <g ref="char:V">Ʋ</g>ſe may be for Conſolation to Believers, againſt Wants, Troubles, and Death it ſelf. <hi>And,</hi>
+                  </p>
+               </argument>
+               <p n="1">1. It adminiſters Comfort to Be<g ref="char:EOLhyphen"/>lievers againſt all their Wants and Neceſſities. It may be now you are very poor,<note place="margin">Prov. 8.18, 21.1 Pet. 1.4.</note> but there's durable Riches provided for you; even a full, incorruptible and glorious In<g ref="char:EOLhyphen"/>heritance. Let the Fore-Thoughts of this ſupport and comfort you under all your Straits and Neceſſi<g ref="char:EOLhyphen"/>ties,<note place="margin">Luk. 16.25.</note> for your beſt Days are yet to come. Conſider, It is but a very little while that we ſhall have need of theſe outward Enjoyments: And while we do need them,<note place="margin">Pſal. 34.9, 10. Pſal. 8.11.</note> we have good ground to hope for ſuch a meaſure thereof as is convenient for us.</p>
+               <p>Whoſoever he be that doth ſeek God's Kingdom and Righteouſneſs above all other Things,<note place="margin">Mat. 6.31, — 33.</note> and that waits upon God in a diligent uſe
+<pb n="102" facs="tcp:50794:52"/>of thoſe Means that he hath appoin<g ref="char:EOLhyphen"/>ted, ſhall certainly enjoy ſo much of theſe Things as the All-wiſe God ſees requiſite for him.<note place="margin">Rom. 8.32.</note> And what can we deſire more?</p>
+               <p>How ſoon (alas!) ſhould we ruine our ſelves,<note place="margin">Deut. 32.15.</note> if God ſhould leave us to be our own Carvers; or ſhould give us whatſoever we deſire in the World?<note place="margin">Pſal. 37.3,—9. Ver. 16. Rom. 8.28.</note> But it's well for us that we are under the care of ſo Wiſe and Gracious a Father, who will give us nothing but what's really good for us; nor deny us any thing here in the World, but that which he ſees would be hurtful to us.</p>
+               <p>We are often deſirous of ſeveral Things which are good in them<g ref="char:EOLhyphen"/>ſelves, and good for ſome Perſons, and which we apprehend may be good for us alſo; and yet God doth (in Mercy) deny us ſuch Things as knowing them not for our good. And ſhall we not truſt his infinite Wiſdom before our own ſhallow and dark Underſtandings?<note place="margin">Pro. 3.5, 6.</note> Yes ſurely.</p>
+               <pb n="103" facs="tcp:50794:52"/>
+               <p>We need not therefore to trou<g ref="char:EOLhyphen"/>ble our ſelves with diſtracting Thoughts, and with carking Cares,<note place="margin">Phil. 4.6.</note> who have ſuch a wiſe Father to care for us here,<note place="margin">1 Pet. 5.7.</note> and provides ſo well for us hereafter.<note place="margin">Pſal. 17.14, 15.1 Pet. 1.3, —5.</note> We have not yet received our Portion, but it is laid up, and in ſafe keeping for us; and within a while we ſhall come to enjoy it. <hi>Fear not lit<g ref="char:EOLhyphen"/>tle Flock</hi> (ſaith Chriſt) <hi>it is your Father's good Pleaſure to give you the Kingdom.</hi> Luke 12.32.</p>
+               <p>Sure you that are adopted the Children of God,<note place="margin">Joh. 1.12, 13. Rom. 8.17. Gal. 4.4,-7</note> and have thereby a Right to the Heavenly Inheritance, may well be content with your Con<g ref="char:EOLhyphen"/>dition in this World; you being ſo much better provided for in the World to come. What if your Earthly Eſtate be ſequeſtred, or any ways taken from you,<note place="margin">Joh. 14.2.</note> ſo long as you have a better Eſtate in Hea<g ref="char:EOLhyphen"/>ven that none can deprive you of, even Eternal Manſions of Bliſs and Glory?</p>
+               <pb n="104" facs="tcp:50794:53"/>
+               <p>Let the Foreſight (by Faith) of this Glorious Eſtate wean you from all inordinate Affections to Humane and Earthly Things.<note place="margin">1 Joh. 2.15, 16, 17.</note> What are all the Pleaſures, and Riches, and Ho<g ref="char:EOLhyphen"/>nours in the World, in compariſon of thoſe that are Spiritual and Heavenly? Theſe will not ſatisfy but increaſe our Deſires, but thoſe will afford us the fulleſt Satisfacti<g ref="char:EOLhyphen"/>on. Theſe are Temporal, and but for a Moment; but thoſe are E<g ref="char:EOLhyphen"/>ternal, and ſhall laſt us for ever. The greateſt Things that are here upon the Earth, will appear to be (what they are indeed) but very ſmall and trivial Things, to thoſe that can look beyond them with an Eye of Faith, and take a view of the Heavenly Bleſſedneſs.</p>
+               <q>What is Earthly Majeſty, and all Earthly Glories (if put toge<g ref="char:EOLhyphen"/>ther) to the beholding the Lord Jeſus Chriſt in all his Majeſty and Glory?<note place="margin">Joh. 17.24</note> What are coſtly Garments, and the moſt rich Attire, to thoſe Robes of Righ<g ref="char:EOLhyphen"/>teouſneſs,
+<pb n="105" facs="tcp:50794:53"/>and Garments of Sal<g ref="char:EOLhyphen"/>vation,<note place="margin">Iſa. 61.10. Rev. 19.7, 8.</note> wherewith the Saints ſhall be clothed in the great Day of the Marriage of the Lamb? What are the moſt ſtately Pa<g ref="char:EOLhyphen"/>laces here on Earth, compared with Heaven the Palace of God,<note place="margin">Joh. 14.2.</note> and the Manſions of Bleſſed Spi<g ref="char:EOLhyphen"/>rits? And what are all the Plea<g ref="char:EOLhyphen"/>ſures in the World,<note place="margin">Pſal. 36.8. &amp; 16.11.</note> to thoſe Ri<g ref="char:EOLhyphen"/>vers of Pleaſures which are at God's Right Hand? Or all the Riches and Inheritances in the World,<note place="margin">Col. 1.12.</note> to that Glorious Inhe<g ref="char:EOLhyphen"/>ritance of the Saints in Light?</q>
+               <p>Whatſoever we want (as to outward Enjoyments) we may com<g ref="char:EOLhyphen"/>fort our ſelves in the Hopes of Heaven; where all our Wants will be abundantly ſupplied with Spi<g ref="char:EOLhyphen"/>ritual, Celeſtial, and much better Enjoyments.</p>
+               <p n="2">2. It adminiſters Comfort to Believers, againſt all their Afflicti<g ref="char:EOLhyphen"/>ons and Troubles. It may be now you lie groaning under Bodily Weakneſſes, as pining Sickneſs, or
+<pb n="106" facs="tcp:50794:54"/>racking Pains; rouling your ſelf to and fro on your Bed, as a Door rouleth upon its Hinges; getting but very little Reſt or Refreſh<g ref="char:EOLhyphen"/>ment, through the anguiſh of your Pains, and the wearineſs of your Fleſh.</p>
+               <p>But in Heaven there will aſſured<g ref="char:EOLhyphen"/>ly be perfect Eaſe, and perfect Health, and Reſt, and Refreſhment, and that for evermore.</p>
+               <p>
+                  <q>We are very apprehenſive of preſent Pain, and preſent Grie<g ref="char:EOLhyphen"/>vances, but not of the Eaſe, Re<g ref="char:EOLhyphen"/>freſhment and Glory that ſhall ſucceed. But remember, and con<g ref="char:EOLhyphen"/>ſider well with your ſelves, that though the Pains be ſharp, the Sickneſs lingring, and hangeth long upon you, yet preſent Time is quickly paſt, but Eternity will have no end.</q> 
+                  <hi>For which cauſe we faint not,</hi>
+                  <note place="margin">2 Cor. 4.16, 17, 18.</note> (ſaith the Apoſtle) <hi>but though our outward Man periſh, yet the inward Man is renewed Day by Day. For our light Afflictions which are but for a Moment, work
+<pb n="107" facs="tcp:50794:54"/>for us a far more exceeding and eter<g ref="char:EOLhyphen"/>nal weight of Glory. While we look not at the Things which are ſeen, but at Things which are not ſeen: for the things which are ſeen, are Temporal; but the Things which are not ſeen, are Eternal.</hi>
+               </p>
+               <q>We pitch too much (alas!) upon a carnal Hope, but do not enough look after the Glory of the everlaſting State: and this makes our Afflictions ſeem heavy and grievous. Whereas, a well<g ref="char:EOLhyphen"/>grounded and lively Hope of the Heavenly Happineſs and Glory, would make our greateſt Afflicti<g ref="char:EOLhyphen"/>ons to become light, and turn our Pains into Pleaſure, yea, and Death it ſelf into Life.</q>
+               <p>But now let me apply it to thoſe eſpecially that ſuffer for Righteouſ<g ref="char:EOLhyphen"/>neſs Sake.</p>
+               <p>Shall any of us ſhrink at Suffer<g ref="char:EOLhyphen"/>ings for Chriſt,<note place="margin">Rom. 8.17.</note> who ſhall be in Glory with him for ever? How ſhort is the Suffering? how long
+<pb n="108" facs="tcp:50794:55"/>the Reward? How light the Af<g ref="char:EOLhyphen"/>fliction? how weighty the Glory?</p>
+               <p>If we had but Wiſdom to reckon aright, and would weigh theſe Things in the Ballance of the San<g ref="char:EOLhyphen"/>ctuary, we ſhould quickly ſee whe<g ref="char:EOLhyphen"/>ther preſent Sufferings, or the fu<g ref="char:EOLhyphen"/>ture Glory would turn the Scales. Rom. 8.18. <hi>For I reckon that the Sufferings of this preſent Time, are not worthy to be compared with the Glory which ſhall be revealed in us.</hi>
+               </p>
+               <p>There are few that have met with greater Sufferings than this great Apoſtle was exerciſed with,<note place="margin">2 Cor. 11.23,—33.</note> and yet he looks upon them as next to nothing, when compared with the future Glory. <hi>I reckon</hi> (ſaith he.) And moſt ſurely he had learn<g ref="char:EOLhyphen"/>ed to reckon aright, and this much refreſh'd him under all his Trials. So 'tis ſaid of the believing Hebrews alſo,<note place="margin">Heb. 10.32,—36.</note> that <hi>they took joyfully the ſpoil<g ref="char:EOLhyphen"/>ing of their Goods, as knowing in themſelves, that they had in Heaven a better and an enduring Subſtance.</hi>
+               </p>
+               <pb n="109" facs="tcp:50794:55"/>
+               <p>And Moſes <hi>eſteemed Reproaches for Chriſt,</hi>
+                  <note place="margin">Heb. 11.25, 26, 27.</note> 
+                  <hi>greater Riches than the Treaſures in</hi> Egypt: <hi>for he had re<g ref="char:EOLhyphen"/>ſpect</hi> ('tis ſaid) <hi>to the recompence of the Reward.</hi> He did not only bear his Sufferings with Patience, but did alſo eſteem very highly of them, as knowing that Heaven would make amends for all.</p>
+               <p>This is it that chears the Hearts of God's Faithful People, in all their Troubles. <hi>I had fainted,</hi>
+                  <note place="margin">Pſal. 27.13.</note> (ſaith David) <hi>unleſs I had believed to ſee the Goodneſs of the Lord in the Land of the Living.</hi>
+               </p>
+               <p>Having Hopes of enjoying ſo great a Good, beyond all Time,<note place="margin">2 Cor. 4.17.</note> to Eternity; we may well endure a far leſſer Evil, when ſo ſhort, even but for a Moment.</p>
+               <p>
+                  <hi>If we be reproached for the Name of Chriſt, we have reaſon to rejoice,</hi>
+                  <note place="margin">1 Pet. 4.12,—19. Chap. 3.14,—17. &amp; 2.20,—25.</note> 
+                  <hi>and not to be aſhamed: For on our Enemies part God is evil ſpoken of, but on our part he is glorified.</hi> And
+<pb n="110" facs="tcp:50794:56"/>if we glorify God here, by our patient continuance in well-doing,<note place="margin">Joh. 12.26 Rev. 3.21.</note> he will alſo glorify us hereafter with Chriſt, in Eternal Glory. <hi>If we ſuffer, we ſhall alſo reign with him; but if we deny him, he will alſo deny us.</hi> 2 Tim. 2.12.</p>
+               <p>Have any of us loſt the love of Men,<note place="margin">Iſa. 66.5.</note> for our Sincerity and Faith<g ref="char:EOLhyphen"/>fulneſs? Why what is this to the Love of God,<note place="margin">Rom. 8.33,—39.</note> which we ſhall en<g ref="char:EOLhyphen"/>joy for ever? Are we (by our Enemies) caſt into Priſon? We ſhall ſhortly be in our Father's Houſe,<note place="margin">Joh. 14.2.</note> where there are Manſions of Bliſs and Glory.</p>
+               <p>The worſt that our Enemies can do us here,<note place="margin">Mat. 10.28</note> is only to kill the Body, and this they cannot do neither without the permiſſion of God; and when God permits them to injure our Bodies,<note place="margin">Rom. 8.28.</note> he thereby deſigns us good to our Souls. So that our Enemies are very unskilful, what<g ref="char:EOLhyphen"/>ſoever Evil they deſign unto us; for when they impair the outward Man, they thereby better the in<g ref="char:EOLhyphen"/>ward
+<pb n="111" facs="tcp:50794:56"/>Man:<note place="margin">2 Cor. 4.16</note> And if they root us out of the Earth, they do but ſend us the ſooner to Heaven.</p>
+               <p>Yea,<note place="margin">Mat. 5.10, 11, 12.</note> and the greater our Suffer<g ref="char:EOLhyphen"/>ings are here in the World, the greater will be our Happineſs here<g ref="char:EOLhyphen"/>after. 'Twas a Saying of one of the Antient Fathers, when vilified by his Enemies.</p>
+               <p>
+                  <hi>He that willingly takes from my good Name, unwillingly adds to my Reward.</hi>
+               </p>
+               <p>Surely then, the Hopes of Heaven ſhould chear our Hearts under all our Trials.</p>
+               <p n="3">3. It adminiſters Comfort to Be<g ref="char:EOLhyphen"/>lievers, even againſt Death it ſelf. <hi>Theſe Earthly Tabernacles muſt be diſ<g ref="char:EOLhyphen"/>ſolved,</hi>
+                  <note place="margin">2 Cor. 5.1.</note> but what then? <hi>We have a Building of God, an Houſe not made with Hands, Eternal in the Heavens.</hi> We ſhall but leave a poor totter<g ref="char:EOLhyphen"/>ing Cottage, to live in a Princely Palace; and forſake an unquiet and troubleſome World, for a place
+<pb n="112" facs="tcp:50794:57"/>of everlaſting Repoſe.<note place="margin">Iſa. 57.2. Rev. 14.13.1 Theſſ. 4.13, 14, 15.</note> Death to Believers is but a ſweet Sleep, and the Grave but a Chamber of Reſt; where the Body doth quietly repoſe it ſelf till the general Reſurrection: And then it ſhall certainly awake from its Sleep, and be raiſed again a moſt Glorious Body, <hi>Phil.</hi> 3.21. And while the Body doth thus quietly reſt in the Grave, the Soul is in actual Joy and Felicity. It doth not ſleep in the Grave with the Body,<note place="margin">2 Cor. 5.8. Phil. 1.23.</note> (as ſome do fooliſhly imagine) but is preſent with the Lord, and in a State of Activity. Death is to the Soul of every Be<g ref="char:EOLhyphen"/>liever an immediate Paſſage into Glory. Believers may therefore look Death in the Face with a great deal of Joy and Comfort,<note place="margin">1 Cor. 15.55, 56, 57.</note> for its Sting is taken away by Chriſt, and it is unto them a Tranſlation. Their Life is not taken away, but changed; 'tis changed from a miſerable and corruptible Life, to that which is Bleſſed and Eternal. There's a Glo<g ref="char:EOLhyphen"/>rious State provided for Believers in the World to come, and Death is the ready Paſſage into it.</p>
+               <pb n="113" facs="tcp:50794:57"/>
+               <p>
+                  <hi>Wherefore comfort one another with theſe Words,</hi>
+                  <note place="margin">1 Theſſ. 4.18.</note> (ſaith the Apoſtle.) With what Words? Why, <hi>that Je<g ref="char:EOLhyphen"/>ſus Chriſt ſhall come in the Clouds,</hi>
+                  <note place="margin">Ver. 16, 17.</note> 
+                  <hi>and take Believers unto himſelf; and ſo ſhall we for ever be with the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Laſtly,</hi> The Doctrine affords mat<g ref="char:EOLhyphen"/>ter of Comfort, to the Dear Re<g ref="char:EOLhyphen"/>lations of our Deceaſed Friend; who hath fought a good Fight, and hath finiſhed her Courſe, and is now gone to receive the Crown which the Lord hath prepared for her.</p>
+               <p>She was one that was aſſaulted with many Temptations, but through the Captain of her Salvation ſhe did conquer and overcome;<note place="margin">Jam. 1.12. Rev. 2.10.</note> and is now enjoying (as we have ground to hope) the Reward of a Faithful Souldier of Chriſt; even an immor<g ref="char:EOLhyphen"/>tal Crown of Life and Glory; yea, the higheſt Felicity ſhe is capable of receiving, till her Body and Soul be again reunited; and then will her Happineſs be full and com<g ref="char:EOLhyphen"/>pleat.</p>
+               <pb n="114" facs="tcp:50794:58"/>
+               <p>Ever ſince I knew her, I look'd upon her to be one that deſired to make Religion her Buſineſs, or the chief concern of her Life.</p>
+               <p>She had very low and mean Thoughts of her ſelf; and was greatly afraid of being miſtaken, and of thinking her Condition to be better than it was. She has oft (in my hearing) lamented and be<g ref="char:EOLhyphen"/>wail'd her Diſtractions of Mind in Duty; and would tell me ſhe found it a very difficult thing to keep her Heart cloſe unto God. And where is there a Chriſtian indeed, that doth not experience this?</p>
+               <p>It was her practice every Day to read a conſiderable Portion of the Holy Scriptures, and to medi<g ref="char:EOLhyphen"/>tate and pray in ſecret; beſides her conſtant joyning in Family-Du<g ref="char:EOLhyphen"/>ties. She would ſay that ſhe found thoſe two Soul-enriching Duties of Meditation, and Self-examination, very hard and difficult to perform them aright.</p>
+               <pb n="115" facs="tcp:50794:58"/>
+               <p>She had a very hearty Love (I be<g ref="char:EOLhyphen"/>lieve) to all God's Faithful People;<note place="margin">1 Joh. 3.14</note> not only thoſe that were of the ſame Judgment with her, but alſo to thoſe that differed from her in ſome Circumſtantials of Religion.</p>
+               <p>She was far from that factious and narrow Spirit (which too many have diſcovered in theſe our Days) that has no hearty Love for any but thoſe that are of their own Perſwaſion. No, whereſoever ſhe ſaw any thing of the Image of God,<note place="margin">Pſal. 15.4. Pſal. 16.2, 3.</note> in Rich or Poor, or any Perſon that differed from her in Judgment, ſuch Perſons were always welcome to her; and ſhe ever expreſſed an high eſteem of them.<note place="margin">Pſal. 119.63.</note> She <hi>delighted moſt in the Society of thoſe who truly feared the Lord.</hi>
+               </p>
+               <p>She would ſpeak her Mind freely, and with very great Zeal, in vin<g ref="char:EOLhyphen"/>dicating God's Faithful Servants, when ſhe heard any of them ſpoken againſt, or reflected on by others.</p>
+               <pb n="116" facs="tcp:50794:59"/>
+               <p>Her Humility was very conſpi<g ref="char:EOLhyphen"/>cuous and apparent to all that con<g ref="char:EOLhyphen"/>verſed much with her. And you of her Neighbours who knew her well, can give your Atteſtation to what I ſay. How free was ſhe al<g ref="char:EOLhyphen"/>ways in her Converſe with you? And how familiar would ſhe be with the pooreſt of you? The Poor was as welcome to her as the Rich; and more eſpecially ſuch as feared the Lord. She would viſit the pooreſt of her Neighbours with delight, when ſhe could have any hopes of doing them good, or of adminiſtring any Relief to them.</p>
+               <p>She went very modeſtly in her Apparel, (ever ſince I knew her) chuſing rather to go below her Quality, than in the leaſt to ex<g ref="char:EOLhyphen"/>ceed. She could not endure thoſe ridiculous Faſhions which are now ſo much followed by many; thoſe fooliſh and fantaſtical Dreſſes which abundance do pleaſe themſelves with. And for my part, I verily believe that a great many Perſons
+<pb n="117" facs="tcp:50794:59"/>amongſt us, do pleaſe but a very few with their Dreſs, beſides the Devil and themſelves. And I wiſh the Lord may not bring upon theſe, what he brought upon the haughty Daughters of <hi>Zion, Iſa.</hi> 3.16,—26. <hi>Jer.</hi> 15.9. <hi>chap.</hi> 14.1, — 18. and 52.1,—27. Many there are which ſeem not to approve of theſe fool<g ref="char:EOLhyphen"/>iſh, fantaſtical Faſhions, and yet, forſooth, they muſt follow the ſame, leſt they make themſelves ridiculous. But our honoured Friend, the de<g ref="char:EOLhyphen"/>ceaſed Gentlewoman, was not of their Mind; for ſhe rather choſe to be accounted ridiculous by proud and fooliſh Sinners, than to make her ſelf ſo indeed, in the Sight of the All-ſeeing God. She ſpent lit<g ref="char:EOLhyphen"/>tle time in dreſſing her ſelf, and as little ſhe ſpent in Idleneſs.</p>
+               <p>She would conſtantly be employ<g ref="char:EOLhyphen"/>ed in one honeſt Buſineſs or other, as knowing it ſinful (either in Poor or in Rich) to trifle and idle away precious Time.</p>
+               <pb n="118" facs="tcp:50794:60"/>
+               <p>She had indeed her Infirmities and Weakneſſes (which none are free from while here in the World,) but theſe (I believe) were her great Grief and Burden. Naturally ſhe ſeem'd to be inclined to Paſſion, the which I have heard her lament and bewail; and I hope, through Grace, ſhe did very much conquer it.</p>
+               <p>Some of her Servants have told me, that when ſhe has been moſt angry, her Back was no ſooner turned but all her Paſſion was gone, and ſhe would then be as mild and well pleaſed again, as if ſhe had never been angry.</p>
+               <p>She was a very Tender and Af<g ref="char:EOLhyphen"/>fectionate Wife, and as ſuitable (I believe) as ever Husband enjoy<g ref="char:EOLhyphen"/>ed. Sure never did two live more comfortably together than theſe two Perſons did. Their greateſt Strife ſeem'd always to be which ſhould exceed in their Love to each other.</p>
+               <pb n="119" facs="tcp:50794:60"/>
+               <p>She was a very careful and in<g ref="char:EOLhyphen"/>dulgent Mother, and had a very tender love to her Children, yet would never indulge them in any thing that was bad.</p>
+               <p>Her neareſt and deareſt Relati<g ref="char:EOLhyphen"/>ons and Friends,<note place="margin">1 Theſſ. 4.13,—18.</note> have cauſe to la<g ref="char:EOLhyphen"/>ment and bewail their own Loſs; but to rejoyce and take comfort in the hopes of her Gain.</p>
+               <p>Her Expreſſions and Carriage in her laſt Sickneſs, and the Morning before ſhe was taken ill, were very remarkable and affecting: For im<g ref="char:EOLhyphen"/>mediately before her laſt Sickneſs ſeiz'd her, ſhe renew'd her Reſolu<g ref="char:EOLhyphen"/>tions of praiſing God more; and told her Affectionate (and now Sorrowful) Husband, that they would join together in ſinging God's Praiſes. And ſhe alſo diſcourſed then with him of Death, and of the great Concerns of their Souls, and this with greater Affection and Freedom than uſually ſhe had done. And ſhe further expreſſed her wil<g ref="char:EOLhyphen"/>lingneſs
+<pb n="120" facs="tcp:50794:61"/>to die, if ſhe had but more hopes of her fitneſs for it. And all this the ſame Morning before her Sickneſs ſeized her, which was therefore the more remarkable. And after ſhe was taken Ill, and her Pains were very great upon her, ſhe would juſtify God, and be ſpeaking good of his Name; ſay<g ref="char:EOLhyphen"/>ing,<note place="margin">Mic. 7.9.</note> I will bear the Indignation of the Lord, becauſe I have ſinned a<g ref="char:EOLhyphen"/>gainſt him. <hi>Well,</hi> (would ſhe ſay) <hi>God is ſtill Good and Gracious, O! that I could love ſo Good a God more!</hi>
+               </p>
+               <p>It is very affecting to hear a poor Soul (who is even ready to breath out her laſt) ſtill breathing forth earneſt Deſires after God, and after a more ardent Love unto him. She deſired to love him more while ſhe was here: and O now ſhe loves, even as ſhe is beloved!</p>
+               <p>She renew'd her Reſolutions of praiſing God more, and now ſhe's gone to ſing everlaſting <hi>Allelujahs.</hi>
+               </p>
+               <pb n="121" facs="tcp:50794:61"/>
+               <p>Let this therefore comfort her deareſt Relations, and every one of us who truly loved her;<note place="margin">Phil. 1.21. Heb. 12.23.</note> that though her Death be a Loſs unto us, yet it's far more gainful to her. We have ground to hope that her Soul is gone to the Spirits of the Juſt made perfect; where ſhe ſhall ſin no more, nor ſorrow any more;<note place="margin">Rev. 21.4.</note> but all Tears ſhall be wiped from her Eyes: and there ſhall be no more Death, neither Sickneſs, nor Pain; for the former Things are paſſed away.</p>
+               <p>Now the Uſe that we ſhould make of what hath been ſpoken in the Praiſe and Commendation of our deceaſed Friend, is to follow and imitate her Example, in whatſoever was excellent and imitable in her.</p>
+               <p>She was much in reading the Word of God, in Meditation and Secret Prayer, and in that neceſſary (and too much neglected) Duty of Self-Examination.</p>
+               <pb n="122" facs="tcp:50794:62"/>
+               <p>Let us endeavour therefore to be much in the practice of theſe neceſſary and moſt profitable Duties, that we may live comfortably, and die happily, as we hope this deceaſ<g ref="char:EOLhyphen"/>ed Gentlewoman did.</p>
+               <p>I am by no means for commen<g ref="char:EOLhyphen"/>ding the Dead any further than may be for the good of the Living, and for the Praiſe and Glory of God. Yea, I look upon it as a very great Sin, to commend the deceaſed with<g ref="char:EOLhyphen"/>out good ground for it; for in ſo doing God's People are grieved, and the Wicked more hardened in their Impenitency. And yet this (alas!) is a practice too common.</p>
+               <p>But I hope I have ſaid nothing of our deceaſed Friend but what may be atteſted by many, and that which may be of good uſe to us all, if we be not wanting to our ſelves. Whatſoever Failings there<g ref="char:EOLhyphen"/>fore we might ſee in her, let us labour to ſhun and avoid the like; and whereinſoever ſhe did excel,
+<pb n="123" facs="tcp:50794:62"/>let us labour to imitate her.<note place="margin">Phil. 4.8, 9. Heb. 6.12.</note> And let us always endeavour to <hi>be Fol<g ref="char:EOLhyphen"/>lowers of thoſe, who through Faith and Patience inherit the Promiſes.</hi>
+               </p>
+               <p>
+                  <hi>Now unto him that is able to keep you from falling,</hi>
+                  <note place="margin">Jude, ver. 24, &amp; 25.</note> 
+                  <hi>and to preſent you faultleſs before the Preſence of his Glory with exceeding Joy, To the only-Wiſe God our Saviour, be Glory and Ma<g ref="char:EOLhyphen"/>jeſty, Dominion and Power, both now and ever.</hi> Amen.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epitaph">
+            <pb facs="tcp:50794:63"/>
+            <head>An EPITAPH.</head>
+            <lg>
+               <l>POor Mortals! how can you once caſt an Eye</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon this Stone, and Grave wherein I lie?</l>
+               <l>And not conſider, that your Bodies muſt</l>
+               <l>Within a while alſo be laid in Duſt.</l>
+            </lg>
+            <lg>
+               <l>But that's not all, your Souls muſt then aſcend</l>
+               <l>To God's Tribunal; where your final End</l>
+               <l>Shall be determined; and you doom'd to</l>
+               <l>A Place of everlaſting Weal, or Wo.</l>
+            </lg>
+            <lg>
+               <l>And O! how happy they that ſhall obtain</l>
+               <l>A Portion in thoſe Manſions, which remain</l>
+               <l>To all Eternity; where they ſhall ſing</l>
+               <l>Triumphant Allelujahs to their King!</l>
+            </lg>
+            <lg>
+               <l>But Wo, wo, wo, ten thouſand Woes to thoſe</l>
+               <l>Who God forgot, and ſinful Pleaſures choſe:</l>
+               <l>For they in everlaſting Flames muſt lie,</l>
+               <l>And be tormented to Eternity.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Memento Mori.</hi> Learn this Leſſon well:</l>
+               <l>Think on the Joys of Heav'n, and Pains of Hell:</l>
+               <l>Rouſe from thy ſinful Sloth, caſt off thy Chains;</l>
+               <l>Believe, Repent, and work while Time remains.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50794:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
